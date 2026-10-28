@@ -313,3 +313,4 @@
 /* Update #937: content(about): isi deskripsi latar belakang pendidikan informatika */
 /* Update #940: style(hero): perindah tata letak dan tipografi judul utama */
 /* Update #943: style(skills): buat ikon atau badge grid untuk keahlian teknis */
+/* Update #946: feat(nav): buat komponen navigasi header responsif */
