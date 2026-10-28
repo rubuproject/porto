@@ -981,3 +981,4 @@ Commit #980: refactor: tingkatkan responsivitas tampilan mobile
 Commit #981: style: rapikan tata letak komponen landing page
 Commit #982: style: optimasi tampilan antarmuka pengguna
 Commit #983: feat: tambahkan seksi pengalaman dan proyek
+Commit #984: refactor: tingkatkan responsivitas tampilan mobile
