@@ -191,3 +191,4 @@ Commit #190: style: rapikan tata letak komponen landing page
 Commit #191: feat: tambahkan seksi pengalaman dan proyek
 Commit #192: feat: tambahkan seksi pengalaman dan proyek
 Commit #193: refactor: tingkatkan responsivitas tampilan mobile
+Commit #194: feat: update deskripsi profil di web portofolio
