@@ -308,3 +308,4 @@
 /* Update #922: feat(nav): buat komponen navigasi header responsif */
 /* Update #925: feat(about): buat halaman atau seksi tentang saya */
 /* Update #928: content(about): isi deskripsi latar belakang pendidikan informatika */
+/* Update #931: style(hero): perindah tata letak dan tipografi judul utama */
