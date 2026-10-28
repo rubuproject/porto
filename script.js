@@ -193,3 +193,4 @@
 /* Update #577: feat(footer): tambahkan tautan media sosial dan hak cipta */
 /* Update #580: style(skills): buat ikon atau badge grid untuk keahlian teknis */
 /* Update #583: fix(responsive): perbaiki bug tampilan pada layar kecil */
+/* Update #586: style(nav): tambahkan efek transisi hover pada menu navigasi */
