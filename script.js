@@ -315,3 +315,4 @@
 /* Update #943: style(skills): buat ikon atau badge grid untuk keahlian teknis */
 /* Update #946: feat(nav): buat komponen navigasi header responsif */
 /* Update #949: style(footer): rapikan tata letak footer di perangkat mobile */
+/* Update #952: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
