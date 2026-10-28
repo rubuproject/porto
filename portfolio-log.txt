@@ -862,3 +862,4 @@ Commit #861: style: optimasi tampilan antarmuka pengguna
 Commit #862: style: rapikan tata letak komponen landing page
 Commit #863: content: perbarui daftar keahlian teknis
 Commit #864: feat: update deskripsi profil di web portofolio
+Commit #865: docs: tambahkan ringkasan proyek pada portofolio
