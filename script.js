@@ -271,3 +271,4 @@
 /* Update #811: fix(responsive): perbaiki bug tampilan pada layar kecil */
 /* Update #814: feat(footer): tambahkan tautan media sosial dan hak cipta */
 /* Update #817: fix(responsive): perbaiki bug tampilan pada layar kecil */
+/* Update #820: style(footer): rapikan tata letak footer di perangkat mobile */
