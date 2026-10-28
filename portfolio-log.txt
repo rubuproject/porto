@@ -374,3 +374,4 @@ Commit #373: style: sesuaikan skema warna dan tema portofolio
 Commit #374: docs: tambahkan ringkasan proyek pada portofolio
 Commit #375: refactor: tingkatkan responsivitas tampilan mobile
 Commit #376: feat: update deskripsi profil di web portofolio
+Commit #377: docs: tambahkan ringkasan proyek pada portofolio
