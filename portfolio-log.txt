@@ -272,3 +272,4 @@ Commit #271: feat: update deskripsi profil di web portofolio
 Commit #272: feat: tambahkan seksi pengalaman dan proyek
 Commit #273: fix: perbaiki penataan elemen CSS di portofolio
 Commit #274: refactor: tingkatkan responsivitas tampilan mobile
+Commit #275: fix: perbaiki penataan elemen CSS di portofolio
