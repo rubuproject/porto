@@ -661,3 +661,4 @@ Commit #660: content: perbarui daftar keahlian teknis
 Commit #661: style: rapikan tata letak komponen landing page
 Commit #662: style: sesuaikan skema warna dan tema portofolio
 Commit #663: feat: update deskripsi profil di web portofolio
+Commit #664: style: rapikan tata letak komponen landing page
