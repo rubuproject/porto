@@ -231,3 +231,4 @@
 /* Update #691: fix(responsive): perbaiki bug tampilan pada layar kecil */
 /* Update #694: fix(responsive): perbaiki bug tampilan pada layar kecil */
 /* Update #697: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
+/* Update #700: feat(nav): buat komponen navigasi header responsif */
