@@ -82,3 +82,4 @@
 /* Update #244: feat(about): buat halaman atau seksi tentang saya */
 /* Update #247: fix(responsive): perbaiki bug tampilan pada layar kecil */
 /* Update #250: feat(projects): tambahkan kartu daftar proyek portofolio */
+/* Update #253: content(about): isi deskripsi latar belakang pendidikan informatika */
