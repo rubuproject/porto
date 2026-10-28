@@ -773,3 +773,4 @@ Commit #772: content: perbarui daftar keahlian teknis
 Commit #773: docs: tambahkan ringkasan proyek pada portofolio
 Commit #774: content: perbarui daftar keahlian teknis
 Commit #775: docs: tambahkan ringkasan proyek pada portofolio
+Commit #776: feat: tambahkan seksi pengalaman dan proyek
