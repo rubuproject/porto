@@ -604,3 +604,4 @@ Commit #603: docs: tambahkan ringkasan proyek pada portofolio
 Commit #604: content: perbarui daftar keahlian teknis
 Commit #605: feat: tambahkan seksi pengalaman dan proyek
 Commit #606: style: optimasi tampilan antarmuka pengguna
+Commit #607: style: optimasi tampilan antarmuka pengguna
