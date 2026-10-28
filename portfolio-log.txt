@@ -990,3 +990,4 @@ Commit #989: feat: update deskripsi profil di web portofolio
 Commit #990: style: rapikan tata letak komponen landing page
 Commit #991: feat: tambahkan seksi pengalaman dan proyek
 Commit #992: content: perbarui daftar keahlian teknis
+Commit #993: refactor: tingkatkan responsivitas tampilan mobile
