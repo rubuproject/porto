@@ -977,3 +977,4 @@ Commit #976: feat: update deskripsi profil di web portofolio
 Commit #977: fix: perbaiki penataan elemen CSS di portofolio
 Commit #978: docs: tambahkan ringkasan proyek pada portofolio
 Commit #979: feat: update deskripsi profil di web portofolio
+Commit #980: refactor: tingkatkan responsivitas tampilan mobile
