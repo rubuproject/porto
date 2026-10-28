@@ -844,3 +844,4 @@ Commit #843: refactor: tingkatkan responsivitas tampilan mobile
 Commit #844: feat: update deskripsi profil di web portofolio
 Commit #845: style: optimasi tampilan antarmuka pengguna
 Commit #846: content: perbarui daftar keahlian teknis
+Commit #847: refactor: tingkatkan responsivitas tampilan mobile
