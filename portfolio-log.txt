@@ -597,3 +597,4 @@ Commit #596: refactor: tingkatkan responsivitas tampilan mobile
 Commit #597: refactor: tingkatkan responsivitas tampilan mobile
 Commit #598: style: sesuaikan skema warna dan tema portofolio
 Commit #599: feat: tambahkan seksi pengalaman dan proyek
+Commit #600: feat: update deskripsi profil di web portofolio
