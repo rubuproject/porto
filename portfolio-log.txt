@@ -268,3 +268,4 @@ Commit #267: refactor: tingkatkan responsivitas tampilan mobile
 Commit #268: style: rapikan tata letak komponen landing page
 Commit #269: style: rapikan tata letak komponen landing page
 Commit #270: feat: update deskripsi profil di web portofolio
+Commit #271: feat: update deskripsi profil di web portofolio
