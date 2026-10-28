@@ -14,3 +14,4 @@ Commit #13: feat: tambahkan seksi pengalaman dan proyek
 Commit #14: style: rapikan tata letak komponen landing page
 Commit #15: style: optimasi tampilan antarmuka pengguna
 Commit #16: fix: perbaiki penataan elemen CSS di portofolio
+Commit #17: content: perbarui daftar keahlian teknis
