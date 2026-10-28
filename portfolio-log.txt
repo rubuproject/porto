@@ -113,3 +113,4 @@ Commit #112: fix: perbaiki penataan elemen CSS di portofolio
 Commit #113: style: optimasi tampilan antarmuka pengguna
 Commit #114: feat: tambahkan seksi pengalaman dan proyek
 Commit #115: feat: update deskripsi profil di web portofolio
+Commit #116: fix: perbaiki penataan elemen CSS di portofolio
