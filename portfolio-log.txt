@@ -866,3 +866,4 @@ Commit #865: docs: tambahkan ringkasan proyek pada portofolio
 Commit #866: refactor: tingkatkan responsivitas tampilan mobile
 Commit #867: content: perbarui daftar keahlian teknis
 Commit #868: style: sesuaikan skema warna dan tema portofolio
+Commit #869: feat: update deskripsi profil di web portofolio
