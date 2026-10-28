@@ -914,3 +914,4 @@ Commit #913: refactor: tingkatkan responsivitas tampilan mobile
 Commit #914: feat: tambahkan seksi pengalaman dan proyek
 Commit #915: style: rapikan tata letak komponen landing page
 Commit #916: refactor: tingkatkan responsivitas tampilan mobile
+Commit #917: content: perbarui daftar keahlian teknis
