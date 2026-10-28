@@ -163,3 +163,4 @@
 /* Update #487: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
 /* Update #490: feat(footer): tambahkan tautan media sosial dan hak cipta */
 /* Update #493: style(projects): desain layout grid responsif untuk kartu proyek */
+/* Update #496: feat(about): buat halaman atau seksi tentang saya */
