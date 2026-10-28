@@ -345,3 +345,4 @@ Commit #344: style: sesuaikan skema warna dan tema portofolio
 Commit #345: refactor: tingkatkan responsivitas tampilan mobile
 Commit #346: feat: tingkatkan performa navigasi halaman
 Commit #347: style: sesuaikan skema warna dan tema portofolio
+Commit #348: refactor: tingkatkan responsivitas tampilan mobile
