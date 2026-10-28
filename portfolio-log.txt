@@ -512,3 +512,4 @@ Commit #511: style: rapikan tata letak komponen landing page
 Commit #512: docs: tambahkan ringkasan proyek pada portofolio
 Commit #513: feat: tambahkan seksi pengalaman dan proyek
 Commit #514: style: rapikan tata letak komponen landing page
+Commit #515: feat: tingkatkan performa navigasi halaman
