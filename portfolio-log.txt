@@ -171,3 +171,4 @@ Commit #170: style: rapikan tata letak komponen landing page
 Commit #171: feat: update deskripsi profil di web portofolio
 Commit #172: feat: tingkatkan performa navigasi halaman
 Commit #173: content: perbarui daftar keahlian teknis
+Commit #174: feat: tingkatkan performa navigasi halaman
