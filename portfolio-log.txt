@@ -746,3 +746,4 @@ Commit #745: style: rapikan tata letak komponen landing page
 Commit #746: feat: tingkatkan performa navigasi halaman
 Commit #747: content: perbarui daftar keahlian teknis
 Commit #748: feat: tambahkan seksi pengalaman dan proyek
+Commit #749: feat: tambahkan seksi pengalaman dan proyek
