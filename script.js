@@ -180,3 +180,4 @@
 /* Update #538: feat(projects): tambahkan kartu daftar proyek portofolio */
 /* Update #541: refactor(css): optimasi file stylesheet utama */
 /* Update #544: feat(contact): buat formulir kontak interaktif */
+/* Update #547: style(footer): rapikan tata letak footer di perangkat mobile */
