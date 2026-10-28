@@ -794,3 +794,4 @@ Commit #793: refactor: tingkatkan responsivitas tampilan mobile
 Commit #794: feat: tambahkan seksi pengalaman dan proyek
 Commit #795: docs: tambahkan ringkasan proyek pada portofolio
 Commit #796: refactor: tingkatkan responsivitas tampilan mobile
+Commit #797: style: sesuaikan skema warna dan tema portofolio
