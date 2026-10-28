@@ -69,3 +69,4 @@
 /* Update #205: style(projects): desain layout grid responsif untuk kartu proyek */
 /* Update #208: style(footer): rapikan tata letak footer di perangkat mobile */
 /* Update #211: style(hero): perindah tata letak dan tipografi judul utama */
+/* Update #214: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
