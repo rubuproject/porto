@@ -77,3 +77,4 @@ Commit #76: feat: tambahkan seksi pengalaman dan proyek
 Commit #77: style: optimasi tampilan antarmuka pengguna
 Commit #78: style: rapikan tata letak komponen landing page
 Commit #79: feat: tambahkan seksi pengalaman dan proyek
+Commit #80: content: perbarui daftar keahlian teknis
