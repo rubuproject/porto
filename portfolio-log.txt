@@ -407,3 +407,4 @@ Commit #406: feat: update deskripsi profil di web portofolio
 Commit #407: feat: tambahkan seksi pengalaman dan proyek
 Commit #408: feat: tingkatkan performa navigasi halaman
 Commit #409: style: sesuaikan skema warna dan tema portofolio
+Commit #410: feat: tingkatkan performa navigasi halaman
