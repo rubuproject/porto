@@ -101,3 +101,4 @@ Commit #100: feat: tingkatkan performa navigasi halaman
 Commit #101: style: sesuaikan skema warna dan tema portofolio
 Commit #102: feat: tambahkan seksi pengalaman dan proyek
 Commit #103: feat: tambahkan seksi pengalaman dan proyek
+Commit #104: docs: tambahkan ringkasan proyek pada portofolio
