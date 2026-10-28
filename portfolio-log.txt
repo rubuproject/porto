@@ -948,3 +948,4 @@ Commit #947: style: rapikan tata letak komponen landing page
 Commit #948: docs: tambahkan ringkasan proyek pada portofolio
 Commit #949: feat: tingkatkan performa navigasi halaman
 Commit #950: content: perbarui daftar keahlian teknis
+Commit #951: content: perbarui daftar keahlian teknis
