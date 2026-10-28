@@ -822,3 +822,4 @@ Commit #821: refactor: tingkatkan responsivitas tampilan mobile
 Commit #822: docs: tambahkan ringkasan proyek pada portofolio
 Commit #823: feat: tingkatkan performa navigasi halaman
 Commit #824: refactor: tingkatkan responsivitas tampilan mobile
+Commit #825: style: rapikan tata letak komponen landing page
