@@ -122,3 +122,4 @@
 /* Update #364: feat(nav): buat komponen navigasi header responsif */
 /* Update #367: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
 /* Update #370: style(footer): rapikan tata letak footer di perangkat mobile */
+/* Update #373: style(nav): tambahkan efek transisi hover pada menu navigasi */
