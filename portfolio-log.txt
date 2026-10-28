@@ -23,3 +23,4 @@ Commit #22: refactor: tingkatkan responsivitas tampilan mobile
 Commit #23: refactor: tingkatkan responsivitas tampilan mobile
 Commit #24: style: rapikan tata letak komponen landing page
 Commit #25: feat: update deskripsi profil di web portofolio
+Commit #26: docs: tambahkan ringkasan proyek pada portofolio
