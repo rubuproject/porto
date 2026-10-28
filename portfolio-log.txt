@@ -562,3 +562,4 @@ Commit #561: feat: tambahkan seksi pengalaman dan proyek
 Commit #562: feat: update deskripsi profil di web portofolio
 Commit #563: style: sesuaikan skema warna dan tema portofolio
 Commit #564: feat: tingkatkan performa navigasi halaman
+Commit #565: style: rapikan tata letak komponen landing page
