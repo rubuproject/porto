@@ -1,1 +1,2 @@
 Commit #1: feat: tambahkan seksi pengalaman dan proyek
+Commit #2: style: optimasi tampilan antarmuka pengguna
