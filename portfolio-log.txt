@@ -583,3 +583,4 @@ Commit #582: feat: update deskripsi profil di web portofolio
 Commit #583: style: sesuaikan skema warna dan tema portofolio
 Commit #584: refactor: tingkatkan responsivitas tampilan mobile
 Commit #585: style: sesuaikan skema warna dan tema portofolio
+Commit #586: style: sesuaikan skema warna dan tema portofolio
