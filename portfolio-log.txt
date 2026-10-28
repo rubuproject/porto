@@ -992,3 +992,4 @@ Commit #991: feat: tambahkan seksi pengalaman dan proyek
 Commit #992: content: perbarui daftar keahlian teknis
 Commit #993: refactor: tingkatkan responsivitas tampilan mobile
 Commit #994: docs: tambahkan ringkasan proyek pada portofolio
+Commit #995: style: sesuaikan skema warna dan tema portofolio
