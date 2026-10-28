@@ -592,3 +592,4 @@ Commit #591: feat: update deskripsi profil di web portofolio
 Commit #592: content: perbarui daftar keahlian teknis
 Commit #593: feat: tingkatkan performa navigasi halaman
 Commit #594: feat: tingkatkan performa navigasi halaman
+Commit #595: refactor: tingkatkan responsivitas tampilan mobile
