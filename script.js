@@ -53,3 +53,4 @@
 /* Update #157: feat(hero): tambahkan seksi perkenalan utama dan foto profil */
 /* Update #160: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
 /* Update #163: fix(responsive): perbaiki bug tampilan pada layar kecil */
+/* Update #166: feat(footer): tambahkan tautan media sosial dan hak cipta */
