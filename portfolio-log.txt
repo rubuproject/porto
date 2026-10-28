@@ -748,3 +748,4 @@ Commit #747: content: perbarui daftar keahlian teknis
 Commit #748: feat: tambahkan seksi pengalaman dan proyek
 Commit #749: feat: tambahkan seksi pengalaman dan proyek
 Commit #750: feat: update deskripsi profil di web portofolio
+Commit #751: style: optimasi tampilan antarmuka pengguna
