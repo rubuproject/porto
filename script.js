@@ -99,3 +99,4 @@
 /* Update #295: refactor(css): optimasi file stylesheet utama */
 /* Update #298: style(footer): rapikan tata letak footer di perangkat mobile */
 /* Update #301: feat(about): buat halaman atau seksi tentang saya */
+/* Update #304: fix(responsive): perbaiki bug tampilan pada layar kecil */
