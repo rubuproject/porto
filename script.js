@@ -87,3 +87,4 @@
 /* Update #259: style(nav): tambahkan efek transisi hover pada menu navigasi */
 /* Update #262: style(nav): tambahkan efek transisi hover pada menu navigasi */
 /* Update #265: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
+/* Update #268: style(skills): buat ikon atau badge grid untuk keahlian teknis */
