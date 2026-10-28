@@ -686,3 +686,4 @@ Commit #685: feat: tambahkan seksi pengalaman dan proyek
 Commit #686: style: rapikan tata letak komponen landing page
 Commit #687: docs: tambahkan ringkasan proyek pada portofolio
 Commit #688: content: perbarui daftar keahlian teknis
+Commit #689: content: perbarui daftar keahlian teknis
