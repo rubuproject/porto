@@ -528,3 +528,4 @@ Commit #527: fix: perbaiki penataan elemen CSS di portofolio
 Commit #528: feat: update deskripsi profil di web portofolio
 Commit #529: feat: tingkatkan performa navigasi halaman
 Commit #530: feat: tambahkan seksi pengalaman dan proyek
+Commit #531: style: rapikan tata letak komponen landing page
