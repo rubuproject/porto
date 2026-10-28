@@ -28,3 +28,4 @@
 /* Update #82: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
 /* Update #85: fix(responsive): perbaiki bug tampilan pada layar kecil */
 /* Update #88: fix(responsive): perbaiki bug tampilan pada layar kecil */
+/* Update #91: style(footer): rapikan tata letak footer di perangkat mobile */
