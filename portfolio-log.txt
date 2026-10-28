@@ -358,3 +358,4 @@ Commit #357: feat: update deskripsi profil di web portofolio
 Commit #358: docs: tambahkan ringkasan proyek pada portofolio
 Commit #359: style: optimasi tampilan antarmuka pengguna
 Commit #360: content: perbarui daftar keahlian teknis
+Commit #361: style: sesuaikan skema warna dan tema portofolio
