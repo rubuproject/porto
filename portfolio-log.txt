@@ -293,3 +293,4 @@ Commit #292: docs: tambahkan ringkasan proyek pada portofolio
 Commit #293: feat: update deskripsi profil di web portofolio
 Commit #294: feat: tambahkan seksi pengalaman dan proyek
 Commit #295: style: rapikan tata letak komponen landing page
+Commit #296: fix: perbaiki penataan elemen CSS di portofolio
