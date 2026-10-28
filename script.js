@@ -288,3 +288,4 @@
 /* Update #862: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
 /* Update #865: style(hero): perindah tata letak dan tipografi judul utama */
 /* Update #868: style(footer): rapikan tata letak footer di perangkat mobile */
+/* Update #871: feat(hero): tambahkan seksi perkenalan utama dan foto profil */
