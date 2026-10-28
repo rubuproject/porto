@@ -995,3 +995,4 @@ Commit #994: docs: tambahkan ringkasan proyek pada portofolio
 Commit #995: style: sesuaikan skema warna dan tema portofolio
 Commit #996: style: rapikan tata letak komponen landing page
 Commit #997: fix: perbaiki penataan elemen CSS di portofolio
+Commit #998: feat: tingkatkan performa navigasi halaman
