@@ -211,3 +211,4 @@ Commit #210: style: optimasi tampilan antarmuka pengguna
 Commit #211: style: optimasi tampilan antarmuka pengguna
 Commit #212: docs: tambahkan ringkasan proyek pada portofolio
 Commit #213: content: perbarui daftar keahlian teknis
+Commit #214: style: sesuaikan skema warna dan tema portofolio
