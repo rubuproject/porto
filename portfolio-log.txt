@@ -965,3 +965,4 @@ Commit #964: style: sesuaikan skema warna dan tema portofolio
 Commit #965: refactor: tingkatkan responsivitas tampilan mobile
 Commit #966: content: perbarui daftar keahlian teknis
 Commit #967: feat: update deskripsi profil di web portofolio
+Commit #968: content: perbarui daftar keahlian teknis
