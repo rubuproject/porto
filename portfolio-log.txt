@@ -764,3 +764,4 @@ Commit #763: feat: tingkatkan performa navigasi halaman
 Commit #764: style: rapikan tata letak komponen landing page
 Commit #765: style: rapikan tata letak komponen landing page
 Commit #766: feat: update deskripsi profil di web portofolio
+Commit #767: refactor: tingkatkan responsivitas tampilan mobile
