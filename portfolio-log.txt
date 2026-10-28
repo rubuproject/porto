@@ -228,3 +228,4 @@ Commit #227: feat: tambahkan seksi pengalaman dan proyek
 Commit #228: style: rapikan tata letak komponen landing page
 Commit #229: docs: tambahkan ringkasan proyek pada portofolio
 Commit #230: docs: tambahkan ringkasan proyek pada portofolio
+Commit #231: docs: tambahkan ringkasan proyek pada portofolio
