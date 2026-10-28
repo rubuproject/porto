@@ -207,3 +207,4 @@
 /* Update #619: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
 /* Update #622: fix(responsive): perbaiki bug tampilan pada layar kecil */
 /* Update #625: feat(hero): tambahkan seksi perkenalan utama dan foto profil */
+/* Update #628: style(skills): buat ikon atau badge grid untuk keahlian teknis */
