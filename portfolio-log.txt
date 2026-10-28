@@ -628,3 +628,4 @@ Commit #627: style: rapikan tata letak komponen landing page
 Commit #628: content: perbarui daftar keahlian teknis
 Commit #629: feat: tambahkan seksi pengalaman dan proyek
 Commit #630: style: rapikan tata letak komponen landing page
+Commit #631: content: perbarui daftar keahlian teknis
