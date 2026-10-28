@@ -997,3 +997,4 @@ Commit #996: style: rapikan tata letak komponen landing page
 Commit #997: fix: perbaiki penataan elemen CSS di portofolio
 Commit #998: feat: tingkatkan performa navigasi halaman
 Commit #999: docs: tambahkan ringkasan proyek pada portofolio
+Commit #1000: feat: tambahkan seksi pengalaman dan proyek
