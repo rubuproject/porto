@@ -269,3 +269,4 @@
 /* Update #805: fix(responsive): perbaiki bug tampilan pada layar kecil */
 /* Update #808: fix(responsive): perbaiki bug tampilan pada layar kecil */
 /* Update #811: fix(responsive): perbaiki bug tampilan pada layar kecil */
+/* Update #814: feat(footer): tambahkan tautan media sosial dan hak cipta */
