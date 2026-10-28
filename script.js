@@ -110,3 +110,4 @@
 /* Update #328: style(footer): rapikan tata letak footer di perangkat mobile */
 /* Update #331: feat(projects): tambahkan kartu daftar proyek portofolio */
 /* Update #334: feat(projects): tambahkan kartu daftar proyek portofolio */
+/* Update #337: feat(footer): tambahkan tautan media sosial dan hak cipta */
