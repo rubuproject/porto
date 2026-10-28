@@ -573,3 +573,4 @@ Commit #572: feat: update deskripsi profil di web portofolio
 Commit #573: feat: tingkatkan performa navigasi halaman
 Commit #574: refactor: tingkatkan responsivitas tampilan mobile
 Commit #575: feat: tambahkan seksi pengalaman dan proyek
+Commit #576: fix: perbaiki penataan elemen CSS di portofolio
