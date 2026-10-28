@@ -226,3 +226,4 @@ Commit #225: refactor: tingkatkan responsivitas tampilan mobile
 Commit #226: feat: tambahkan seksi pengalaman dan proyek
 Commit #227: feat: tambahkan seksi pengalaman dan proyek
 Commit #228: style: rapikan tata letak komponen landing page
+Commit #229: docs: tambahkan ringkasan proyek pada portofolio
