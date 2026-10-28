@@ -263,3 +263,4 @@
 /* Update #787: feat(contact): buat formulir kontak interaktif */
 /* Update #790: style(hero): perindah tata letak dan tipografi judul utama */
 /* Update #793: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
+/* Update #796: content(about): isi deskripsi latar belakang pendidikan informatika */
