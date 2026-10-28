@@ -367,3 +367,4 @@ Commit #366: style: sesuaikan skema warna dan tema portofolio
 Commit #367: refactor: tingkatkan responsivitas tampilan mobile
 Commit #368: content: perbarui daftar keahlian teknis
 Commit #369: feat: tingkatkan performa navigasi halaman
+Commit #370: style: sesuaikan skema warna dan tema portofolio
