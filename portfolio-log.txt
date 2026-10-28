@@ -182,3 +182,4 @@ Commit #181: refactor: tingkatkan responsivitas tampilan mobile
 Commit #182: feat: update deskripsi profil di web portofolio
 Commit #183: docs: tambahkan ringkasan proyek pada portofolio
 Commit #184: style: sesuaikan skema warna dan tema portofolio
+Commit #185: refactor: tingkatkan responsivitas tampilan mobile
