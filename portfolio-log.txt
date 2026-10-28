@@ -389,3 +389,4 @@ Commit #388: content: perbarui daftar keahlian teknis
 Commit #389: style: rapikan tata letak komponen landing page
 Commit #390: style: rapikan tata letak komponen landing page
 Commit #391: style: sesuaikan skema warna dan tema portofolio
+Commit #392: docs: tambahkan ringkasan proyek pada portofolio
