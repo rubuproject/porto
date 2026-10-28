@@ -178,3 +178,4 @@ Commit #177: style: optimasi tampilan antarmuka pengguna
 Commit #178: refactor: tingkatkan responsivitas tampilan mobile
 Commit #179: fix: perbaiki penataan elemen CSS di portofolio
 Commit #180: refactor: tingkatkan responsivitas tampilan mobile
+Commit #181: refactor: tingkatkan responsivitas tampilan mobile
