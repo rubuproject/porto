@@ -300,3 +300,4 @@ Commit #299: style: optimasi tampilan antarmuka pengguna
 Commit #300: content: perbarui daftar keahlian teknis
 Commit #301: style: rapikan tata letak komponen landing page
 Commit #302: style: optimasi tampilan antarmuka pengguna
+Commit #303: feat: tambahkan seksi pengalaman dan proyek
