@@ -465,3 +465,4 @@ Commit #464: style: sesuaikan skema warna dan tema portofolio
 Commit #465: fix: perbaiki penataan elemen CSS di portofolio
 Commit #466: fix: perbaiki penataan elemen CSS di portofolio
 Commit #467: style: optimasi tampilan antarmuka pengguna
+Commit #468: content: perbarui daftar keahlian teknis
