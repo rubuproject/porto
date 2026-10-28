@@ -124,3 +124,4 @@ Commit #123: feat: tambahkan seksi pengalaman dan proyek
 Commit #124: refactor: tingkatkan responsivitas tampilan mobile
 Commit #125: docs: tambahkan ringkasan proyek pada portofolio
 Commit #126: feat: tingkatkan performa navigasi halaman
+Commit #127: feat: tingkatkan performa navigasi halaman
