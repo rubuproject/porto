@@ -432,3 +432,4 @@ Commit #431: style: rapikan tata letak komponen landing page
 Commit #432: refactor: tingkatkan responsivitas tampilan mobile
 Commit #433: docs: tambahkan ringkasan proyek pada portofolio
 Commit #434: feat: tambahkan seksi pengalaman dan proyek
+Commit #435: fix: perbaiki penataan elemen CSS di portofolio
