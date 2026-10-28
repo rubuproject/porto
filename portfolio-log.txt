@@ -56,3 +56,4 @@ Commit #55: feat: tingkatkan performa navigasi halaman
 Commit #56: feat: tingkatkan performa navigasi halaman
 Commit #57: feat: tingkatkan performa navigasi halaman
 Commit #58: style: rapikan tata letak komponen landing page
+Commit #59: docs: tambahkan ringkasan proyek pada portofolio
