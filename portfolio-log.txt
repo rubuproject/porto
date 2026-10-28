@@ -221,3 +221,4 @@ Commit #220: docs: tambahkan ringkasan proyek pada portofolio
 Commit #221: style: sesuaikan skema warna dan tema portofolio
 Commit #222: feat: tingkatkan performa navigasi halaman
 Commit #223: style: rapikan tata letak komponen landing page
+Commit #224: refactor: tingkatkan responsivitas tampilan mobile
