@@ -39,3 +39,4 @@ Commit #38: feat: tambahkan seksi pengalaman dan proyek
 Commit #39: feat: tambahkan seksi pengalaman dan proyek
 Commit #40: content: perbarui daftar keahlian teknis
 Commit #41: style: sesuaikan skema warna dan tema portofolio
+Commit #42: refactor: tingkatkan responsivitas tampilan mobile
