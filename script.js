@@ -237,3 +237,4 @@
 /* Update #709: refactor(css): optimasi file stylesheet utama */
 /* Update #712: feat(projects): tambahkan kartu daftar proyek portofolio */
 /* Update #715: feat(footer): tambahkan tautan media sosial dan hak cipta */
+/* Update #718: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
