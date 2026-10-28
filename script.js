@@ -185,3 +185,4 @@
 /* Update #553: content(about): isi deskripsi latar belakang pendidikan informatika */
 /* Update #556: feat(contact): buat formulir kontak interaktif */
 /* Update #559: feat(hero): tambahkan seksi perkenalan utama dan foto profil */
+/* Update #562: style(hero): perindah tata letak dan tipografi judul utama */
