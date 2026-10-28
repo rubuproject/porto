@@ -143,3 +143,4 @@ Commit #142: feat: tingkatkan performa navigasi halaman
 Commit #143: style: sesuaikan skema warna dan tema portofolio
 Commit #144: feat: update deskripsi profil di web portofolio
 Commit #145: feat: tingkatkan performa navigasi halaman
+Commit #146: feat: update deskripsi profil di web portofolio
