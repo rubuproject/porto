@@ -361,3 +361,4 @@ Commit #360: content: perbarui daftar keahlian teknis
 Commit #361: style: sesuaikan skema warna dan tema portofolio
 Commit #362: docs: tambahkan ringkasan proyek pada portofolio
 Commit #363: style: rapikan tata letak komponen landing page
+Commit #364: docs: tambahkan ringkasan proyek pada portofolio
