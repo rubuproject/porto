@@ -498,3 +498,4 @@ Commit #497: content: perbarui daftar keahlian teknis
 Commit #498: feat: tingkatkan performa navigasi halaman
 Commit #499: style: rapikan tata letak komponen landing page
 Commit #500: refactor: tingkatkan responsivitas tampilan mobile
+Commit #501: content: perbarui daftar keahlian teknis
