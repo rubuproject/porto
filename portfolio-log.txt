@@ -737,3 +737,4 @@ Commit #736: content: perbarui daftar keahlian teknis
 Commit #737: fix: perbaiki penataan elemen CSS di portofolio
 Commit #738: style: rapikan tata letak komponen landing page
 Commit #739: docs: tambahkan ringkasan proyek pada portofolio
+Commit #740: feat: tambahkan seksi pengalaman dan proyek
