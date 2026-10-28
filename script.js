@@ -92,3 +92,4 @@
 /* Update #274: feat(contact): buat formulir kontak interaktif */
 /* Update #277: feat(hero): tambahkan seksi perkenalan utama dan foto profil */
 /* Update #280: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
+/* Update #283: style(footer): rapikan tata letak footer di perangkat mobile */
