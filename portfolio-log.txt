@@ -789,3 +789,4 @@ Commit #788: feat: update deskripsi profil di web portofolio
 Commit #789: docs: tambahkan ringkasan proyek pada portofolio
 Commit #790: style: sesuaikan skema warna dan tema portofolio
 Commit #791: feat: update deskripsi profil di web portofolio
+Commit #792: style: rapikan tata letak komponen landing page
