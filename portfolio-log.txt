@@ -898,3 +898,4 @@ Commit #897: style: rapikan tata letak komponen landing page
 Commit #898: feat: tingkatkan performa navigasi halaman
 Commit #899: style: sesuaikan skema warna dan tema portofolio
 Commit #900: content: perbarui daftar keahlian teknis
+Commit #901: docs: tambahkan ringkasan proyek pada portofolio
