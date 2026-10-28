@@ -44,3 +44,4 @@ Commit #43: feat: tambahkan seksi pengalaman dan proyek
 Commit #44: fix: perbaiki penataan elemen CSS di portofolio
 Commit #45: style: sesuaikan skema warna dan tema portofolio
 Commit #46: content: perbarui daftar keahlian teknis
+Commit #47: style: sesuaikan skema warna dan tema portofolio
