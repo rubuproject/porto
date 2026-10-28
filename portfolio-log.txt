@@ -510,3 +510,4 @@ Commit #509: feat: tambahkan seksi pengalaman dan proyek
 Commit #510: refactor: tingkatkan responsivitas tampilan mobile
 Commit #511: style: rapikan tata letak komponen landing page
 Commit #512: docs: tambahkan ringkasan proyek pada portofolio
+Commit #513: feat: tambahkan seksi pengalaman dan proyek
