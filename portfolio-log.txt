@@ -206,3 +206,4 @@ Commit #205: content: perbarui daftar keahlian teknis
 Commit #206: feat: tambahkan seksi pengalaman dan proyek
 Commit #207: refactor: tingkatkan responsivitas tampilan mobile
 Commit #208: style: rapikan tata letak komponen landing page
+Commit #209: fix: perbaiki penataan elemen CSS di portofolio
