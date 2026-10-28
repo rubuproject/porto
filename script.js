@@ -295,3 +295,4 @@
 /* Update #883: fix(responsive): perbaiki bug tampilan pada layar kecil */
 /* Update #886: feat(hero): tambahkan seksi perkenalan utama dan foto profil */
 /* Update #889: style(nav): tambahkan efek transisi hover pada menu navigasi */
+/* Update #892: style(hero): perindah tata letak dan tipografi judul utama */
