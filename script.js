@@ -44,3 +44,4 @@
 /* Update #130: style(nav): tambahkan efek transisi hover pada menu navigasi */
 /* Update #133: content(about): isi deskripsi latar belakang pendidikan informatika */
 /* Update #136: style(skills): buat ikon atau badge grid untuk keahlian teknis */
+/* Update #139: feat(footer): tambahkan tautan media sosial dan hak cipta */
