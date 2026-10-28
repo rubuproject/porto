@@ -333,3 +333,4 @@ Commit #332: docs: tambahkan ringkasan proyek pada portofolio
 Commit #333: fix: perbaiki penataan elemen CSS di portofolio
 Commit #334: style: optimasi tampilan antarmuka pengguna
 Commit #335: style: optimasi tampilan antarmuka pengguna
+Commit #336: feat: tingkatkan performa navigasi halaman
