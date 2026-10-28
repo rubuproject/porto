@@ -227,3 +227,4 @@
 /* Update #679: feat(nav): buat komponen navigasi header responsif */
 /* Update #682: style(footer): rapikan tata letak footer di perangkat mobile */
 /* Update #685: feat(footer): tambahkan tautan media sosial dan hak cipta */
+/* Update #688: refactor(css): optimasi file stylesheet utama */
