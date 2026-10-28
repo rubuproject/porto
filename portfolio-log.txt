@@ -51,3 +51,4 @@ Commit #50: feat: tambahkan seksi pengalaman dan proyek
 Commit #51: docs: tambahkan ringkasan proyek pada portofolio
 Commit #52: fix: perbaiki penataan elemen CSS di portofolio
 Commit #53: content: perbarui daftar keahlian teknis
+Commit #54: style: sesuaikan skema warna dan tema portofolio
