@@ -42,3 +42,4 @@
 /* Update #124: feat(hero): tambahkan seksi perkenalan utama dan foto profil */
 /* Update #127: feat(about): buat halaman atau seksi tentang saya */
 /* Update #130: style(nav): tambahkan efek transisi hover pada menu navigasi */
+/* Update #133: content(about): isi deskripsi latar belakang pendidikan informatika */
