@@ -165,3 +165,4 @@ Commit #164: feat: tingkatkan performa navigasi halaman
 Commit #165: feat: tambahkan seksi pengalaman dan proyek
 Commit #166: style: rapikan tata letak komponen landing page
 Commit #167: feat: tingkatkan performa navigasi halaman
+Commit #168: fix: perbaiki penataan elemen CSS di portofolio
