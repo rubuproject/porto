@@ -984,3 +984,4 @@ Commit #983: feat: tambahkan seksi pengalaman dan proyek
 Commit #984: refactor: tingkatkan responsivitas tampilan mobile
 Commit #985: style: optimasi tampilan antarmuka pengguna
 Commit #986: content: perbarui daftar keahlian teknis
+Commit #987: refactor: tingkatkan responsivitas tampilan mobile
