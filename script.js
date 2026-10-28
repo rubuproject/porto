@@ -210,3 +210,4 @@
 /* Update #628: style(skills): buat ikon atau badge grid untuk keahlian teknis */
 /* Update #631: feat(about): buat halaman atau seksi tentang saya */
 /* Update #634: content(about): isi deskripsi latar belakang pendidikan informatika */
+/* Update #637: style(nav): tambahkan efek transisi hover pada menu navigasi */
