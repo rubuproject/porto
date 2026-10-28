@@ -276,3 +276,4 @@ Commit #275: fix: perbaiki penataan elemen CSS di portofolio
 Commit #276: style: sesuaikan skema warna dan tema portofolio
 Commit #277: content: perbarui daftar keahlian teknis
 Commit #278: style: rapikan tata letak komponen landing page
+Commit #279: style: optimasi tampilan antarmuka pengguna
