@@ -319,3 +319,4 @@ Commit #318: fix: perbaiki penataan elemen CSS di portofolio
 Commit #319: style: optimasi tampilan antarmuka pengguna
 Commit #320: style: optimasi tampilan antarmuka pengguna
 Commit #321: feat: tingkatkan performa navigasi halaman
+Commit #322: docs: tambahkan ringkasan proyek pada portofolio
