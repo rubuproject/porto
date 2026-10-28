@@ -657,3 +657,4 @@ Commit #656: style: rapikan tata letak komponen landing page
 Commit #657: feat: tambahkan seksi pengalaman dan proyek
 Commit #658: feat: tambahkan seksi pengalaman dan proyek
 Commit #659: docs: tambahkan ringkasan proyek pada portofolio
+Commit #660: content: perbarui daftar keahlian teknis
