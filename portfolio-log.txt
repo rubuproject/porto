@@ -1,3 +1,4 @@
 Commit #1: feat: tambahkan seksi pengalaman dan proyek
 Commit #2: style: optimasi tampilan antarmuka pengguna
 Commit #3: feat: update deskripsi profil di web portofolio
+Commit #4: fix: perbaiki penataan elemen CSS di portofolio
