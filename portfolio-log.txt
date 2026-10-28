@@ -213,3 +213,4 @@ Commit #212: docs: tambahkan ringkasan proyek pada portofolio
 Commit #213: content: perbarui daftar keahlian teknis
 Commit #214: style: sesuaikan skema warna dan tema portofolio
 Commit #215: style: rapikan tata letak komponen landing page
+Commit #216: fix: perbaiki penataan elemen CSS di portofolio
