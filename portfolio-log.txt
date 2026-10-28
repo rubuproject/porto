@@ -140,3 +140,4 @@ Commit #139: feat: tingkatkan performa navigasi halaman
 Commit #140: style: sesuaikan skema warna dan tema portofolio
 Commit #141: docs: tambahkan ringkasan proyek pada portofolio
 Commit #142: feat: tingkatkan performa navigasi halaman
+Commit #143: style: sesuaikan skema warna dan tema portofolio
