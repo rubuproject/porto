@@ -160,3 +160,4 @@
 /* Update #478: feat(nav): buat komponen navigasi header responsif */
 /* Update #481: feat(footer): tambahkan tautan media sosial dan hak cipta */
 /* Update #484: style(projects): desain layout grid responsif untuk kartu proyek */
+/* Update #487: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
