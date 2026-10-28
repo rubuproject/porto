@@ -64,3 +64,4 @@
 /* Update #190: feat(about): buat halaman atau seksi tentang saya */
 /* Update #193: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
 /* Update #196: style(nav): tambahkan efek transisi hover pada menu navigasi */
+/* Update #199: feat(footer): tambahkan tautan media sosial dan hak cipta */
