@@ -55,3 +55,4 @@
 /* Update #163: fix(responsive): perbaiki bug tampilan pada layar kecil */
 /* Update #166: feat(footer): tambahkan tautan media sosial dan hak cipta */
 /* Update #169: content(about): isi deskripsi latar belakang pendidikan informatika */
+/* Update #172: feat(nav): buat komponen navigasi header responsif */
