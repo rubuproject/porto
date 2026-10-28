@@ -217,3 +217,4 @@ Commit #216: fix: perbaiki penataan elemen CSS di portofolio
 Commit #217: feat: tingkatkan performa navigasi halaman
 Commit #218: style: rapikan tata letak komponen landing page
 Commit #219: feat: tambahkan seksi pengalaman dan proyek
+Commit #220: docs: tambahkan ringkasan proyek pada portofolio
