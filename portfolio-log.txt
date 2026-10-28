@@ -723,3 +723,4 @@ Commit #722: refactor: tingkatkan responsivitas tampilan mobile
 Commit #723: refactor: tingkatkan responsivitas tampilan mobile
 Commit #724: feat: update deskripsi profil di web portofolio
 Commit #725: fix: perbaiki penataan elemen CSS di portofolio
+Commit #726: feat: tambahkan seksi pengalaman dan proyek
