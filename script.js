@@ -316,3 +316,4 @@
 /* Update #946: feat(nav): buat komponen navigasi header responsif */
 /* Update #949: style(footer): rapikan tata letak footer di perangkat mobile */
 /* Update #952: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
+/* Update #955: style(projects): desain layout grid responsif untuk kartu proyek */
