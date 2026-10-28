@@ -670,3 +670,4 @@ Commit #669: refactor: tingkatkan responsivitas tampilan mobile
 Commit #670: content: perbarui daftar keahlian teknis
 Commit #671: feat: tingkatkan performa navigasi halaman
 Commit #672: feat: update deskripsi profil di web portofolio
+Commit #673: docs: tambahkan ringkasan proyek pada portofolio
