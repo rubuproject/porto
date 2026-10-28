@@ -18,3 +18,4 @@
 /* Update #52: style(projects): desain layout grid responsif untuk kartu proyek */
 /* Update #55: style(footer): rapikan tata letak footer di perangkat mobile */
 /* Update #58: feat(nav): buat komponen navigasi header responsif */
+/* Update #61: content(about): isi deskripsi latar belakang pendidikan informatika */
