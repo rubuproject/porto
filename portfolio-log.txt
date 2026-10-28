@@ -601,3 +601,4 @@ Commit #600: feat: update deskripsi profil di web portofolio
 Commit #601: docs: tambahkan ringkasan proyek pada portofolio
 Commit #602: style: optimasi tampilan antarmuka pengguna
 Commit #603: docs: tambahkan ringkasan proyek pada portofolio
+Commit #604: content: perbarui daftar keahlian teknis
