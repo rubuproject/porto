@@ -110,3 +110,4 @@ Commit #109: content: perbarui daftar keahlian teknis
 Commit #110: content: perbarui daftar keahlian teknis
 Commit #111: fix: perbaiki penataan elemen CSS di portofolio
 Commit #112: fix: perbaiki penataan elemen CSS di portofolio
+Commit #113: style: optimasi tampilan antarmuka pengguna
