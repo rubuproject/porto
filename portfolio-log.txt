@@ -86,3 +86,4 @@ Commit #85: content: perbarui daftar keahlian teknis
 Commit #86: docs: tambahkan ringkasan proyek pada portofolio
 Commit #87: style: optimasi tampilan antarmuka pengguna
 Commit #88: refactor: tingkatkan responsivitas tampilan mobile
+Commit #89: docs: tambahkan ringkasan proyek pada portofolio
