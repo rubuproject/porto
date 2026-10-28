@@ -261,3 +261,4 @@
 /* Update #781: feat(projects): tambahkan kartu daftar proyek portofolio */
 /* Update #784: feat(about): buat halaman atau seksi tentang saya */
 /* Update #787: feat(contact): buat formulir kontak interaktif */
+/* Update #790: style(hero): perindah tata letak dan tipografi judul utama */
