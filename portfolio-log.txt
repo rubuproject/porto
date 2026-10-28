@@ -30,3 +30,4 @@ Commit #29: feat: tingkatkan performa navigasi halaman
 Commit #30: feat: tambahkan seksi pengalaman dan proyek
 Commit #31: docs: tambahkan ringkasan proyek pada portofolio
 Commit #32: feat: tingkatkan performa navigasi halaman
+Commit #33: style: sesuaikan skema warna dan tema portofolio
