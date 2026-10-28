@@ -238,3 +238,4 @@
 /* Update #712: feat(projects): tambahkan kartu daftar proyek portofolio */
 /* Update #715: feat(footer): tambahkan tautan media sosial dan hak cipta */
 /* Update #718: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
+/* Update #721: style(footer): rapikan tata letak footer di perangkat mobile */
