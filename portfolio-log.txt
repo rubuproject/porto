@@ -869,3 +869,4 @@ Commit #868: style: sesuaikan skema warna dan tema portofolio
 Commit #869: feat: update deskripsi profil di web portofolio
 Commit #870: feat: update deskripsi profil di web portofolio
 Commit #871: docs: tambahkan ringkasan proyek pada portofolio
+Commit #872: style: sesuaikan skema warna dan tema portofolio
