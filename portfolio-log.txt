@@ -383,3 +383,4 @@ Commit #382: feat: update deskripsi profil di web portofolio
 Commit #383: feat: update deskripsi profil di web portofolio
 Commit #384: style: optimasi tampilan antarmuka pengguna
 Commit #385: docs: tambahkan ringkasan proyek pada portofolio
+Commit #386: style: sesuaikan skema warna dan tema portofolio
