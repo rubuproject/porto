@@ -741,3 +741,4 @@ Commit #740: feat: tambahkan seksi pengalaman dan proyek
 Commit #741: feat: tambahkan seksi pengalaman dan proyek
 Commit #742: style: sesuaikan skema warna dan tema portofolio
 Commit #743: feat: update deskripsi profil di web portofolio
+Commit #744: refactor: tingkatkan responsivitas tampilan mobile
