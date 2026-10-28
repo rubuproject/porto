@@ -322,3 +322,4 @@
 /* Update #964: style(nav): tambahkan efek transisi hover pada menu navigasi */
 /* Update #967: style(nav): tambahkan efek transisi hover pada menu navigasi */
 /* Update #970: feat(projects): tambahkan kartu daftar proyek portofolio */
+/* Update #973: style(footer): rapikan tata letak footer di perangkat mobile */
