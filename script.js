@@ -114,3 +114,4 @@
 /* Update #340: style(skills): buat ikon atau badge grid untuk keahlian teknis */
 /* Update #343: style(nav): tambahkan efek transisi hover pada menu navigasi */
 /* Update #346: feat(nav): buat komponen navigasi header responsif */
+/* Update #349: style(hero): perindah tata letak dan tipografi judul utama */
