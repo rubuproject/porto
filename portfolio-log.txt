@@ -444,3 +444,4 @@ Commit #443: style: rapikan tata letak komponen landing page
 Commit #444: style: optimasi tampilan antarmuka pengguna
 Commit #445: feat: tingkatkan performa navigasi halaman
 Commit #446: style: sesuaikan skema warna dan tema portofolio
+Commit #447: fix: perbaiki penataan elemen CSS di portofolio
