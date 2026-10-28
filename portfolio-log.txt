@@ -137,3 +137,4 @@ Commit #136: style: rapikan tata letak komponen landing page
 Commit #137: docs: tambahkan ringkasan proyek pada portofolio
 Commit #138: feat: update deskripsi profil di web portofolio
 Commit #139: feat: tingkatkan performa navigasi halaman
+Commit #140: style: sesuaikan skema warna dan tema portofolio
