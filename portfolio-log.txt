@@ -343,3 +343,4 @@ Commit #342: style: optimasi tampilan antarmuka pengguna
 Commit #343: content: perbarui daftar keahlian teknis
 Commit #344: style: sesuaikan skema warna dan tema portofolio
 Commit #345: refactor: tingkatkan responsivitas tampilan mobile
+Commit #346: feat: tingkatkan performa navigasi halaman
