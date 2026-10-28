@@ -731,3 +731,4 @@ Commit #730: feat: update deskripsi profil di web portofolio
 Commit #731: feat: tambahkan seksi pengalaman dan proyek
 Commit #732: feat: tingkatkan performa navigasi halaman
 Commit #733: style: rapikan tata letak komponen landing page
+Commit #734: refactor: tingkatkan responsivitas tampilan mobile
