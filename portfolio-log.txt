@@ -337,3 +337,4 @@ Commit #336: feat: tingkatkan performa navigasi halaman
 Commit #337: style: rapikan tata letak komponen landing page
 Commit #338: style: sesuaikan skema warna dan tema portofolio
 Commit #339: style: rapikan tata letak komponen landing page
+Commit #340: fix: perbaiki penataan elemen CSS di portofolio
