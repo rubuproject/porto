@@ -802,3 +802,4 @@ Commit #801: feat: update deskripsi profil di web portofolio
 Commit #802: style: sesuaikan skema warna dan tema portofolio
 Commit #803: docs: tambahkan ringkasan proyek pada portofolio
 Commit #804: fix: perbaiki penataan elemen CSS di portofolio
+Commit #805: style: sesuaikan skema warna dan tema portofolio
