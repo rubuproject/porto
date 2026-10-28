@@ -631,3 +631,4 @@ Commit #630: style: rapikan tata letak komponen landing page
 Commit #631: content: perbarui daftar keahlian teknis
 Commit #632: docs: tambahkan ringkasan proyek pada portofolio
 Commit #633: content: perbarui daftar keahlian teknis
+Commit #634: style: rapikan tata letak komponen landing page
