@@ -751,3 +751,4 @@ Commit #750: feat: update deskripsi profil di web portofolio
 Commit #751: style: optimasi tampilan antarmuka pengguna
 Commit #752: feat: update deskripsi profil di web portofolio
 Commit #753: docs: tambahkan ringkasan proyek pada portofolio
+Commit #754: content: perbarui daftar keahlian teknis
