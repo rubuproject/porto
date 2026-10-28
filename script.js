@@ -106,3 +106,4 @@
 /* Update #316: content(about): isi deskripsi latar belakang pendidikan informatika */
 /* Update #319: style(hero): perindah tata letak dan tipografi judul utama */
 /* Update #322: style(hero): perindah tata letak dan tipografi judul utama */
+/* Update #325: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
