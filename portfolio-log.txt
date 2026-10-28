@@ -613,3 +613,4 @@ Commit #612: style: sesuaikan skema warna dan tema portofolio
 Commit #613: style: rapikan tata letak komponen landing page
 Commit #614: docs: tambahkan ringkasan proyek pada portofolio
 Commit #615: style: optimasi tampilan antarmuka pengguna
+Commit #616: style: sesuaikan skema warna dan tema portofolio
