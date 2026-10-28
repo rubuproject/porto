@@ -103,3 +103,4 @@ Commit #102: feat: tambahkan seksi pengalaman dan proyek
 Commit #103: feat: tambahkan seksi pengalaman dan proyek
 Commit #104: docs: tambahkan ringkasan proyek pada portofolio
 Commit #105: refactor: tingkatkan responsivitas tampilan mobile
+Commit #106: refactor: tingkatkan responsivitas tampilan mobile
