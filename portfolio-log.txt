@@ -814,3 +814,4 @@ Commit #813: feat: tingkatkan performa navigasi halaman
 Commit #814: feat: tingkatkan performa navigasi halaman
 Commit #815: feat: update deskripsi profil di web portofolio
 Commit #816: feat: tingkatkan performa navigasi halaman
+Commit #817: content: perbarui daftar keahlian teknis
