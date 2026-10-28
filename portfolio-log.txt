@@ -554,3 +554,4 @@ Commit #553: style: rapikan tata letak komponen landing page
 Commit #554: fix: perbaiki penataan elemen CSS di portofolio
 Commit #555: style: rapikan tata letak komponen landing page
 Commit #556: style: sesuaikan skema warna dan tema portofolio
+Commit #557: content: perbarui daftar keahlian teknis
