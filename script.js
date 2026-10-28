@@ -67,3 +67,4 @@
 /* Update #199: feat(footer): tambahkan tautan media sosial dan hak cipta */
 /* Update #202: content(about): isi deskripsi latar belakang pendidikan informatika */
 /* Update #205: style(projects): desain layout grid responsif untuk kartu proyek */
+/* Update #208: style(footer): rapikan tata letak footer di perangkat mobile */
