@@ -130,3 +130,4 @@ Commit #129: feat: update deskripsi profil di web portofolio
 Commit #130: style: optimasi tampilan antarmuka pengguna
 Commit #131: feat: update deskripsi profil di web portofolio
 Commit #132: docs: tambahkan ringkasan proyek pada portofolio
+Commit #133: refactor: tingkatkan responsivitas tampilan mobile
