@@ -818,3 +818,4 @@ Commit #817: content: perbarui daftar keahlian teknis
 Commit #818: style: optimasi tampilan antarmuka pengguna
 Commit #819: style: sesuaikan skema warna dan tema portofolio
 Commit #820: style: optimasi tampilan antarmuka pengguna
+Commit #821: refactor: tingkatkan responsivitas tampilan mobile
