@@ -250,3 +250,4 @@ Commit #249: style: sesuaikan skema warna dan tema portofolio
 Commit #250: docs: tambahkan ringkasan proyek pada portofolio
 Commit #251: feat: update deskripsi profil di web portofolio
 Commit #252: style: rapikan tata letak komponen landing page
+Commit #253: feat: tingkatkan performa navigasi halaman
