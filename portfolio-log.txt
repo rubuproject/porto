@@ -570,3 +570,4 @@ Commit #569: feat: tambahkan seksi pengalaman dan proyek
 Commit #570: feat: tingkatkan performa navigasi halaman
 Commit #571: style: sesuaikan skema warna dan tema portofolio
 Commit #572: feat: update deskripsi profil di web portofolio
+Commit #573: feat: tingkatkan performa navigasi halaman
