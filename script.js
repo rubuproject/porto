@@ -19,3 +19,4 @@
 /* Update #55: style(footer): rapikan tata letak footer di perangkat mobile */
 /* Update #58: feat(nav): buat komponen navigasi header responsif */
 /* Update #61: content(about): isi deskripsi latar belakang pendidikan informatika */
+/* Update #64: feat(nav): buat komponen navigasi header responsif */
