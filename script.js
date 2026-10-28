@@ -111,3 +111,4 @@
 /* Update #331: feat(projects): tambahkan kartu daftar proyek portofolio */
 /* Update #334: feat(projects): tambahkan kartu daftar proyek portofolio */
 /* Update #337: feat(footer): tambahkan tautan media sosial dan hak cipta */
+/* Update #340: style(skills): buat ikon atau badge grid untuk keahlian teknis */
