@@ -743,3 +743,4 @@ Commit #742: style: sesuaikan skema warna dan tema portofolio
 Commit #743: feat: update deskripsi profil di web portofolio
 Commit #744: refactor: tingkatkan responsivitas tampilan mobile
 Commit #745: style: rapikan tata letak komponen landing page
+Commit #746: feat: tingkatkan performa navigasi halaman
