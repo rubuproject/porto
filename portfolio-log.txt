@@ -401,3 +401,4 @@ Commit #400: feat: tingkatkan performa navigasi halaman
 Commit #401: style: rapikan tata letak komponen landing page
 Commit #402: feat: tingkatkan performa navigasi halaman
 Commit #403: docs: tambahkan ringkasan proyek pada portofolio
+Commit #404: feat: tingkatkan performa navigasi halaman
