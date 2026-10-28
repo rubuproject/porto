@@ -107,3 +107,4 @@
 /* Update #319: style(hero): perindah tata letak dan tipografi judul utama */
 /* Update #322: style(hero): perindah tata letak dan tipografi judul utama */
 /* Update #325: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
+/* Update #328: style(footer): rapikan tata letak footer di perangkat mobile */
