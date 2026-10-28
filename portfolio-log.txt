@@ -524,3 +524,4 @@ Commit #523: docs: tambahkan ringkasan proyek pada portofolio
 Commit #524: feat: tambahkan seksi pengalaman dan proyek
 Commit #525: fix: perbaiki penataan elemen CSS di portofolio
 Commit #526: docs: tambahkan ringkasan proyek pada portofolio
+Commit #527: fix: perbaiki penataan elemen CSS di portofolio
