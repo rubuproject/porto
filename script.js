@@ -30,3 +30,4 @@
 /* Update #88: fix(responsive): perbaiki bug tampilan pada layar kecil */
 /* Update #91: style(footer): rapikan tata letak footer di perangkat mobile */
 /* Update #94: style(nav): tambahkan efek transisi hover pada menu navigasi */
+/* Update #97: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
