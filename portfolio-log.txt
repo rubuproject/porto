@@ -327,3 +327,4 @@ Commit #326: docs: tambahkan ringkasan proyek pada portofolio
 Commit #327: feat: tingkatkan performa navigasi halaman
 Commit #328: feat: tambahkan seksi pengalaman dan proyek
 Commit #329: style: rapikan tata letak komponen landing page
+Commit #330: style: optimasi tampilan antarmuka pengguna
