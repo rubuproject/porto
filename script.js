@@ -143,3 +143,4 @@
 /* Update #427: feat(footer): tambahkan tautan media sosial dan hak cipta */
 /* Update #430: style(projects): desain layout grid responsif untuk kartu proyek */
 /* Update #433: refactor(css): optimasi file stylesheet utama */
+/* Update #436: fix(responsive): perbaiki bug tampilan pada layar kecil */
