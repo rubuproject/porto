@@ -888,3 +888,4 @@ Commit #887: docs: tambahkan ringkasan proyek pada portofolio
 Commit #888: refactor: tingkatkan responsivitas tampilan mobile
 Commit #889: style: rapikan tata letak komponen landing page
 Commit #890: feat: tingkatkan performa navigasi halaman
+Commit #891: style: rapikan tata letak komponen landing page
