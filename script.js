@@ -188,3 +188,4 @@
 /* Update #562: style(hero): perindah tata letak dan tipografi judul utama */
 /* Update #565: style(hero): perindah tata letak dan tipografi judul utama */
 /* Update #568: feat(projects): tambahkan kartu daftar proyek portofolio */
+/* Update #571: style(footer): rapikan tata letak footer di perangkat mobile */
