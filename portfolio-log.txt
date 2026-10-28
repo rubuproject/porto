@@ -792,3 +792,4 @@ Commit #791: feat: update deskripsi profil di web portofolio
 Commit #792: style: rapikan tata letak komponen landing page
 Commit #793: refactor: tingkatkan responsivitas tampilan mobile
 Commit #794: feat: tambahkan seksi pengalaman dan proyek
+Commit #795: docs: tambahkan ringkasan proyek pada portofolio
