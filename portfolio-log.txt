@@ -711,3 +711,4 @@ Commit #710: refactor: tingkatkan responsivitas tampilan mobile
 Commit #711: docs: tambahkan ringkasan proyek pada portofolio
 Commit #712: style: sesuaikan skema warna dan tema portofolio
 Commit #713: refactor: tingkatkan responsivitas tampilan mobile
+Commit #714: style: optimasi tampilan antarmuka pengguna
