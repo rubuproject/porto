@@ -708,3 +708,4 @@ Commit #707: feat: tambahkan seksi pengalaman dan proyek
 Commit #708: feat: tambahkan seksi pengalaman dan proyek
 Commit #709: feat: update deskripsi profil di web portofolio
 Commit #710: refactor: tingkatkan responsivitas tampilan mobile
+Commit #711: docs: tambahkan ringkasan proyek pada portofolio
