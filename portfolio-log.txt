@@ -381,3 +381,4 @@ Commit #380: style: sesuaikan skema warna dan tema portofolio
 Commit #381: fix: perbaiki penataan elemen CSS di portofolio
 Commit #382: feat: update deskripsi profil di web portofolio
 Commit #383: feat: update deskripsi profil di web portofolio
+Commit #384: style: optimasi tampilan antarmuka pengguna
