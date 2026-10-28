@@ -860,3 +860,4 @@ Commit #859: docs: tambahkan ringkasan proyek pada portofolio
 Commit #860: style: rapikan tata letak komponen landing page
 Commit #861: style: optimasi tampilan antarmuka pengguna
 Commit #862: style: rapikan tata letak komponen landing page
+Commit #863: content: perbarui daftar keahlian teknis
