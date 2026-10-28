@@ -289,3 +289,4 @@ Commit #288: feat: tambahkan seksi pengalaman dan proyek
 Commit #289: style: sesuaikan skema warna dan tema portofolio
 Commit #290: docs: tambahkan ringkasan proyek pada portofolio
 Commit #291: fix: perbaiki penataan elemen CSS di portofolio
+Commit #292: docs: tambahkan ringkasan proyek pada portofolio
