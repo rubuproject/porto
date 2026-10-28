@@ -91,3 +91,4 @@ Commit #90: feat: tambahkan seksi pengalaman dan proyek
 Commit #91: style: rapikan tata letak komponen landing page
 Commit #92: style: optimasi tampilan antarmuka pengguna
 Commit #93: refactor: tingkatkan responsivitas tampilan mobile
+Commit #94: style: rapikan tata letak komponen landing page
