@@ -172,3 +172,4 @@
 /* Update #514: style(skills): buat ikon atau badge grid untuk keahlian teknis */
 /* Update #517: style(footer): rapikan tata letak footer di perangkat mobile */
 /* Update #520: feat(nav): buat komponen navigasi header responsif */
+/* Update #523: feat(footer): tambahkan tautan media sosial dan hak cipta */
