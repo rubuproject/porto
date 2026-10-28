@@ -32,3 +32,4 @@
 /* Update #94: style(nav): tambahkan efek transisi hover pada menu navigasi */
 /* Update #97: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
 /* Update #100: content(about): isi deskripsi latar belakang pendidikan informatika */
+/* Update #103: content(about): isi deskripsi latar belakang pendidikan informatika */
