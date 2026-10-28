@@ -376,3 +376,4 @@ Commit #375: refactor: tingkatkan responsivitas tampilan mobile
 Commit #376: feat: update deskripsi profil di web portofolio
 Commit #377: docs: tambahkan ringkasan proyek pada portofolio
 Commit #378: style: rapikan tata letak komponen landing page
+Commit #379: refactor: tingkatkan responsivitas tampilan mobile
