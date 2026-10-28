@@ -547,3 +547,4 @@ Commit #546: style: rapikan tata letak komponen landing page
 Commit #547: refactor: tingkatkan responsivitas tampilan mobile
 Commit #548: feat: update deskripsi profil di web portofolio
 Commit #549: fix: perbaiki penataan elemen CSS di portofolio
+Commit #550: content: perbarui daftar keahlian teknis
