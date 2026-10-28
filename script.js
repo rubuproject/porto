@@ -63,3 +63,4 @@
 /* Update #187: content(about): isi deskripsi latar belakang pendidikan informatika */
 /* Update #190: feat(about): buat halaman atau seksi tentang saya */
 /* Update #193: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
+/* Update #196: style(nav): tambahkan efek transisi hover pada menu navigasi */
