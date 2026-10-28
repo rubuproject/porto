@@ -753,3 +753,4 @@ Commit #752: feat: update deskripsi profil di web portofolio
 Commit #753: docs: tambahkan ringkasan proyek pada portofolio
 Commit #754: content: perbarui daftar keahlian teknis
 Commit #755: style: rapikan tata letak komponen landing page
+Commit #756: feat: tingkatkan performa navigasi halaman
