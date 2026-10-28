@@ -418,3 +418,4 @@ Commit #417: feat: tambahkan seksi pengalaman dan proyek
 Commit #418: docs: tambahkan ringkasan proyek pada portofolio
 Commit #419: style: optimasi tampilan antarmuka pengguna
 Commit #420: content: perbarui daftar keahlian teknis
+Commit #421: style: sesuaikan skema warna dan tema portofolio
