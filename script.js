@@ -126,3 +126,4 @@
 /* Update #376: feat(nav): buat komponen navigasi header responsif */
 /* Update #379: style(projects): desain layout grid responsif untuk kartu proyek */
 /* Update #382: content(about): isi deskripsi latar belakang pendidikan informatika */
+/* Update #385: feat(footer): tambahkan tautan media sosial dan hak cipta */
