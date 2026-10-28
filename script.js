@@ -273,3 +273,4 @@
 /* Update #817: fix(responsive): perbaiki bug tampilan pada layar kecil */
 /* Update #820: style(footer): rapikan tata letak footer di perangkat mobile */
 /* Update #823: fix(responsive): perbaiki bug tampilan pada layar kecil */
+/* Update #826: feat(about): buat halaman atau seksi tentang saya */
