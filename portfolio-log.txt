@@ -167,3 +167,4 @@ Commit #166: style: rapikan tata letak komponen landing page
 Commit #167: feat: tingkatkan performa navigasi halaman
 Commit #168: fix: perbaiki penataan elemen CSS di portofolio
 Commit #169: docs: tambahkan ringkasan proyek pada portofolio
+Commit #170: style: rapikan tata letak komponen landing page
