@@ -311,3 +311,4 @@ Commit #310: fix: perbaiki penataan elemen CSS di portofolio
 Commit #311: content: perbarui daftar keahlian teknis
 Commit #312: style: sesuaikan skema warna dan tema portofolio
 Commit #313: docs: tambahkan ringkasan proyek pada portofolio
+Commit #314: style: optimasi tampilan antarmuka pengguna
