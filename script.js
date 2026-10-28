@@ -81,3 +81,4 @@
 /* Update #241: style(footer): rapikan tata letak footer di perangkat mobile */
 /* Update #244: feat(about): buat halaman atau seksi tentang saya */
 /* Update #247: fix(responsive): perbaiki bug tampilan pada layar kecil */
+/* Update #250: feat(projects): tambahkan kartu daftar proyek portofolio */
