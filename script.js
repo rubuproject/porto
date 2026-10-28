@@ -155,3 +155,4 @@
 /* Update #463: fix(responsive): perbaiki bug tampilan pada layar kecil */
 /* Update #466: feat(about): buat halaman atau seksi tentang saya */
 /* Update #469: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
+/* Update #472: feat(about): buat halaman atau seksi tentang saya */
