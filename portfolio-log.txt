@@ -264,3 +264,4 @@ Commit #263: docs: tambahkan ringkasan proyek pada portofolio
 Commit #264: refactor: tingkatkan responsivitas tampilan mobile
 Commit #265: style: optimasi tampilan antarmuka pengguna
 Commit #266: style: optimasi tampilan antarmuka pengguna
+Commit #267: refactor: tingkatkan responsivitas tampilan mobile
