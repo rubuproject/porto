@@ -779,3 +779,4 @@ Commit #778: refactor: tingkatkan responsivitas tampilan mobile
 Commit #779: style: sesuaikan skema warna dan tema portofolio
 Commit #780: docs: tambahkan ringkasan proyek pada portofolio
 Commit #781: refactor: tingkatkan responsivitas tampilan mobile
+Commit #782: refactor: tingkatkan responsivitas tampilan mobile
