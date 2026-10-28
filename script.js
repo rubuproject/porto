@@ -208,3 +208,4 @@
 /* Update #622: fix(responsive): perbaiki bug tampilan pada layar kecil */
 /* Update #625: feat(hero): tambahkan seksi perkenalan utama dan foto profil */
 /* Update #628: style(skills): buat ikon atau badge grid untuk keahlian teknis */
+/* Update #631: feat(about): buat halaman atau seksi tentang saya */
