@@ -688,3 +688,4 @@ Commit #687: docs: tambahkan ringkasan proyek pada portofolio
 Commit #688: content: perbarui daftar keahlian teknis
 Commit #689: content: perbarui daftar keahlian teknis
 Commit #690: style: rapikan tata letak komponen landing page
+Commit #691: feat: update deskripsi profil di web portofolio
