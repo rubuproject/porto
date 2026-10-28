@@ -6,3 +6,4 @@
 /* Update #16: feat(projects): tambahkan kartu daftar proyek portofolio */
 /* Update #19: style(nav): tambahkan efek transisi hover pada menu navigasi */
 /* Update #22: style(nav): tambahkan efek transisi hover pada menu navigasi */
+/* Update #25: style(projects): desain layout grid responsif untuk kartu proyek */
