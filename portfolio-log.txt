@@ -833,3 +833,4 @@ Commit #832: docs: tambahkan ringkasan proyek pada portofolio
 Commit #833: docs: tambahkan ringkasan proyek pada portofolio
 Commit #834: content: perbarui daftar keahlian teknis
 Commit #835: feat: tingkatkan performa navigasi halaman
+Commit #836: style: optimasi tampilan antarmuka pengguna
