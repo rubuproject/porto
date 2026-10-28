@@ -307,3 +307,4 @@ Commit #306: docs: tambahkan ringkasan proyek pada portofolio
 Commit #307: docs: tambahkan ringkasan proyek pada portofolio
 Commit #308: style: rapikan tata letak komponen landing page
 Commit #309: feat: update deskripsi profil di web portofolio
+Commit #310: fix: perbaiki penataan elemen CSS di portofolio
