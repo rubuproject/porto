@@ -75,3 +75,4 @@
 /* Update #223: refactor(css): optimasi file stylesheet utama */
 /* Update #226: feat(projects): tambahkan kartu daftar proyek portofolio */
 /* Update #229: style(footer): rapikan tata letak footer di perangkat mobile */
+/* Update #232: feat(hero): tambahkan seksi perkenalan utama dan foto profil */
