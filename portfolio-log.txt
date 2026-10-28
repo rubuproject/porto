@@ -668,3 +668,4 @@ Commit #667: style: sesuaikan skema warna dan tema portofolio
 Commit #668: refactor: tingkatkan responsivitas tampilan mobile
 Commit #669: refactor: tingkatkan responsivitas tampilan mobile
 Commit #670: content: perbarui daftar keahlian teknis
+Commit #671: feat: tingkatkan performa navigasi halaman
