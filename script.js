@@ -239,3 +239,4 @@
 /* Update #715: feat(footer): tambahkan tautan media sosial dan hak cipta */
 /* Update #718: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
 /* Update #721: style(footer): rapikan tata letak footer di perangkat mobile */
+/* Update #724: style(skills): buat ikon atau badge grid untuk keahlian teknis */
