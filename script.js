@@ -287,3 +287,4 @@
 /* Update #859: feat(projects): tambahkan kartu daftar proyek portofolio */
 /* Update #862: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
 /* Update #865: style(hero): perindah tata letak dan tipografi judul utama */
+/* Update #868: style(footer): rapikan tata letak footer di perangkat mobile */
