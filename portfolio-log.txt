@@ -727,3 +727,4 @@ Commit #726: feat: tambahkan seksi pengalaman dan proyek
 Commit #727: feat: tingkatkan performa navigasi halaman
 Commit #728: fix: perbaiki penataan elemen CSS di portofolio
 Commit #729: fix: perbaiki penataan elemen CSS di portofolio
+Commit #730: feat: update deskripsi profil di web portofolio
