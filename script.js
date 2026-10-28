@@ -252,3 +252,4 @@
 /* Update #754: style(hero): perindah tata letak dan tipografi judul utama */
 /* Update #757: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
 /* Update #760: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
+/* Update #763: fix(responsive): perbaiki bug tampilan pada layar kecil */
