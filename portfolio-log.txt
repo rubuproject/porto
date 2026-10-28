@@ -324,3 +324,4 @@ Commit #323: refactor: tingkatkan responsivitas tampilan mobile
 Commit #324: style: optimasi tampilan antarmuka pengguna
 Commit #325: feat: tingkatkan performa navigasi halaman
 Commit #326: docs: tambahkan ringkasan proyek pada portofolio
+Commit #327: feat: tingkatkan performa navigasi halaman
