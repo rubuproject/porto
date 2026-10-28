@@ -646,3 +646,4 @@ Commit #645: feat: update deskripsi profil di web portofolio
 Commit #646: docs: tambahkan ringkasan proyek pada portofolio
 Commit #647: style: optimasi tampilan antarmuka pengguna
 Commit #648: content: perbarui daftar keahlian teknis
+Commit #649: refactor: tingkatkan responsivitas tampilan mobile
