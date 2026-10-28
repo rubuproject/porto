@@ -19,3 +19,4 @@ Commit #18: style: sesuaikan skema warna dan tema portofolio
 Commit #19: feat: update deskripsi profil di web portofolio
 Commit #20: style: optimasi tampilan antarmuka pengguna
 Commit #21: style: optimasi tampilan antarmuka pengguna
+Commit #22: refactor: tingkatkan responsivitas tampilan mobile
