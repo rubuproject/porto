@@ -158,3 +158,4 @@ Commit #157: style: sesuaikan skema warna dan tema portofolio
 Commit #158: style: optimasi tampilan antarmuka pengguna
 Commit #159: style: optimasi tampilan antarmuka pengguna
 Commit #160: feat: update deskripsi profil di web portofolio
+Commit #161: style: optimasi tampilan antarmuka pengguna
