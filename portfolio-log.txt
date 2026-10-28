@@ -303,3 +303,4 @@ Commit #302: style: optimasi tampilan antarmuka pengguna
 Commit #303: feat: tambahkan seksi pengalaman dan proyek
 Commit #304: refactor: tingkatkan responsivitas tampilan mobile
 Commit #305: style: optimasi tampilan antarmuka pengguna
+Commit #306: docs: tambahkan ringkasan proyek pada portofolio
