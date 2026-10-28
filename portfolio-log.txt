@@ -385,3 +385,4 @@ Commit #384: style: optimasi tampilan antarmuka pengguna
 Commit #385: docs: tambahkan ringkasan proyek pada portofolio
 Commit #386: style: sesuaikan skema warna dan tema portofolio
 Commit #387: style: sesuaikan skema warna dan tema portofolio
+Commit #388: content: perbarui daftar keahlian teknis
