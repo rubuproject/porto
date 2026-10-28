@@ -197,3 +197,4 @@ Commit #196: docs: tambahkan ringkasan proyek pada portofolio
 Commit #197: docs: tambahkan ringkasan proyek pada portofolio
 Commit #198: style: optimasi tampilan antarmuka pengguna
 Commit #199: style: optimasi tampilan antarmuka pengguna
+Commit #200: docs: tambahkan ringkasan proyek pada portofolio
