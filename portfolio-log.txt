@@ -900,3 +900,4 @@ Commit #899: style: sesuaikan skema warna dan tema portofolio
 Commit #900: content: perbarui daftar keahlian teknis
 Commit #901: docs: tambahkan ringkasan proyek pada portofolio
 Commit #902: feat: tambahkan seksi pengalaman dan proyek
+Commit #903: fix: perbaiki penataan elemen CSS di portofolio
