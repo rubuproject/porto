@@ -122,3 +122,4 @@ Commit #121: feat: tambahkan seksi pengalaman dan proyek
 Commit #122: style: sesuaikan skema warna dan tema portofolio
 Commit #123: feat: tambahkan seksi pengalaman dan proyek
 Commit #124: refactor: tingkatkan responsivitas tampilan mobile
+Commit #125: docs: tambahkan ringkasan proyek pada portofolio
