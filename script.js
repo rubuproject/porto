@@ -70,3 +70,4 @@
 /* Update #208: style(footer): rapikan tata letak footer di perangkat mobile */
 /* Update #211: style(hero): perindah tata letak dan tipografi judul utama */
 /* Update #214: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
+/* Update #217: content(about): isi deskripsi latar belakang pendidikan informatika */
