@@ -199,3 +199,4 @@ Commit #198: style: optimasi tampilan antarmuka pengguna
 Commit #199: style: optimasi tampilan antarmuka pengguna
 Commit #200: docs: tambahkan ringkasan proyek pada portofolio
 Commit #201: feat: tingkatkan performa navigasi halaman
+Commit #202: refactor: tingkatkan responsivitas tampilan mobile
