@@ -663,3 +663,4 @@ Commit #662: style: sesuaikan skema warna dan tema portofolio
 Commit #663: feat: update deskripsi profil di web portofolio
 Commit #664: style: rapikan tata letak komponen landing page
 Commit #665: style: sesuaikan skema warna dan tema portofolio
+Commit #666: style: rapikan tata letak komponen landing page
