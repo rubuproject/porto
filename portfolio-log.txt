@@ -625,3 +625,4 @@ Commit #624: style: sesuaikan skema warna dan tema portofolio
 Commit #625: feat: update deskripsi profil di web portofolio
 Commit #626: fix: perbaiki penataan elemen CSS di portofolio
 Commit #627: style: rapikan tata letak komponen landing page
+Commit #628: content: perbarui daftar keahlian teknis
