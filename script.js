@@ -40,3 +40,4 @@
 /* Update #118: style(skills): buat ikon atau badge grid untuk keahlian teknis */
 /* Update #121: style(nav): tambahkan efek transisi hover pada menu navigasi */
 /* Update #124: feat(hero): tambahkan seksi perkenalan utama dan foto profil */
+/* Update #127: feat(about): buat halaman atau seksi tentang saya */
