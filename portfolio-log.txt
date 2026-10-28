@@ -760,3 +760,4 @@ Commit #759: style: sesuaikan skema warna dan tema portofolio
 Commit #760: feat: tambahkan seksi pengalaman dan proyek
 Commit #761: docs: tambahkan ringkasan proyek pada portofolio
 Commit #762: style: optimasi tampilan antarmuka pengguna
+Commit #763: feat: tingkatkan performa navigasi halaman
