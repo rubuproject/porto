@@ -22,3 +22,4 @@
 /* Update #64: feat(nav): buat komponen navigasi header responsif */
 /* Update #67: feat(nav): buat komponen navigasi header responsif */
 /* Update #70: style(skills): buat ikon atau badge grid untuk keahlian teknis */
+/* Update #73: content(about): isi deskripsi latar belakang pendidikan informatika */
