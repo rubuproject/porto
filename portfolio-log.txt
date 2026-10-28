@@ -890,3 +890,4 @@ Commit #889: style: rapikan tata letak komponen landing page
 Commit #890: feat: tingkatkan performa navigasi halaman
 Commit #891: style: rapikan tata letak komponen landing page
 Commit #892: style: sesuaikan skema warna dan tema portofolio
+Commit #893: docs: tambahkan ringkasan proyek pada portofolio
