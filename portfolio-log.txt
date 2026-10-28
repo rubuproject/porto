@@ -149,3 +149,4 @@ Commit #148: refactor: tingkatkan responsivitas tampilan mobile
 Commit #149: docs: tambahkan ringkasan proyek pada portofolio
 Commit #150: style: optimasi tampilan antarmuka pengguna
 Commit #151: style: rapikan tata letak komponen landing page
+Commit #152: style: rapikan tata letak komponen landing page
