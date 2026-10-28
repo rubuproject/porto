@@ -505,3 +505,4 @@ Commit #504: content: perbarui daftar keahlian teknis
 Commit #505: feat: update deskripsi profil di web portofolio
 Commit #506: docs: tambahkan ringkasan proyek pada portofolio
 Commit #507: content: perbarui daftar keahlian teknis
+Commit #508: style: sesuaikan skema warna dan tema portofolio
