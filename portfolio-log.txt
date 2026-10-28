@@ -71,3 +71,4 @@ Commit #70: refactor: tingkatkan responsivitas tampilan mobile
 Commit #71: docs: tambahkan ringkasan proyek pada portofolio
 Commit #72: docs: tambahkan ringkasan proyek pada portofolio
 Commit #73: fix: perbaiki penataan elemen CSS di portofolio
+Commit #74: refactor: tingkatkan responsivitas tampilan mobile
