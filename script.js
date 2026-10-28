@@ -38,3 +38,4 @@
 /* Update #112: content(about): isi deskripsi latar belakang pendidikan informatika */
 /* Update #115: style(footer): rapikan tata letak footer di perangkat mobile */
 /* Update #118: style(skills): buat ikon atau badge grid untuk keahlian teknis */
+/* Update #121: style(nav): tambahkan efek transisi hover pada menu navigasi */
