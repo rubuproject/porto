@@ -393,3 +393,4 @@ Commit #392: docs: tambahkan ringkasan proyek pada portofolio
 Commit #393: docs: tambahkan ringkasan proyek pada portofolio
 Commit #394: docs: tambahkan ringkasan proyek pada portofolio
 Commit #395: feat: tambahkan seksi pengalaman dan proyek
+Commit #396: style: sesuaikan skema warna dan tema portofolio
