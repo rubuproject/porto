@@ -249,3 +249,4 @@
 /* Update #745: feat(footer): tambahkan tautan media sosial dan hak cipta */
 /* Update #748: feat(projects): tambahkan kartu daftar proyek portofolio */
 /* Update #751: feat(contact): buat formulir kontak interaktif */
+/* Update #754: style(hero): perindah tata letak dan tipografi judul utama */
