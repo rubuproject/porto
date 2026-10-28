@@ -864,3 +864,4 @@ Commit #863: content: perbarui daftar keahlian teknis
 Commit #864: feat: update deskripsi profil di web portofolio
 Commit #865: docs: tambahkan ringkasan proyek pada portofolio
 Commit #866: refactor: tingkatkan responsivitas tampilan mobile
+Commit #867: content: perbarui daftar keahlian teknis
