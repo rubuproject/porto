@@ -12,3 +12,4 @@
 /* Update #34: style(nav): tambahkan efek transisi hover pada menu navigasi */
 /* Update #37: feat(projects): tambahkan kartu daftar proyek portofolio */
 /* Update #40: feat(nav): buat komponen navigasi header responsif */
+/* Update #43: feat(about): buat halaman atau seksi tentang saya */
