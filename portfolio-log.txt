@@ -756,3 +756,4 @@ Commit #755: style: rapikan tata letak komponen landing page
 Commit #756: feat: tingkatkan performa navigasi halaman
 Commit #757: style: sesuaikan skema warna dan tema portofolio
 Commit #758: content: perbarui daftar keahlian teknis
+Commit #759: style: sesuaikan skema warna dan tema portofolio
