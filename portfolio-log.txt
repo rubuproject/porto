@@ -252,3 +252,4 @@ Commit #251: feat: update deskripsi profil di web portofolio
 Commit #252: style: rapikan tata letak komponen landing page
 Commit #253: feat: tingkatkan performa navigasi halaman
 Commit #254: refactor: tingkatkan responsivitas tampilan mobile
+Commit #255: style: sesuaikan skema warna dan tema portofolio
