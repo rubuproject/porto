@@ -521,3 +521,4 @@ Commit #520: feat: update deskripsi profil di web portofolio
 Commit #521: feat: tambahkan seksi pengalaman dan proyek
 Commit #522: feat: update deskripsi profil di web portofolio
 Commit #523: docs: tambahkan ringkasan proyek pada portofolio
+Commit #524: feat: tambahkan seksi pengalaman dan proyek
