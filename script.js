@@ -314,3 +314,4 @@
 /* Update #940: style(hero): perindah tata letak dan tipografi judul utama */
 /* Update #943: style(skills): buat ikon atau badge grid untuk keahlian teknis */
 /* Update #946: feat(nav): buat komponen navigasi header responsif */
+/* Update #949: style(footer): rapikan tata letak footer di perangkat mobile */
