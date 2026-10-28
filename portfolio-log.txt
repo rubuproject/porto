@@ -133,3 +133,4 @@ Commit #132: docs: tambahkan ringkasan proyek pada portofolio
 Commit #133: refactor: tingkatkan responsivitas tampilan mobile
 Commit #134: style: rapikan tata letak komponen landing page
 Commit #135: feat: tingkatkan performa navigasi halaman
+Commit #136: style: rapikan tata letak komponen landing page
