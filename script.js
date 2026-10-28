@@ -192,3 +192,4 @@
 /* Update #574: style(projects): desain layout grid responsif untuk kartu proyek */
 /* Update #577: feat(footer): tambahkan tautan media sosial dan hak cipta */
 /* Update #580: style(skills): buat ikon atau badge grid untuk keahlian teknis */
+/* Update #583: fix(responsive): perbaiki bug tampilan pada layar kecil */
