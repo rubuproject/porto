@@ -36,3 +36,4 @@
 /* Update #106: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
 /* Update #109: fix(responsive): perbaiki bug tampilan pada layar kecil */
 /* Update #112: content(about): isi deskripsi latar belakang pendidikan informatika */
+/* Update #115: style(footer): rapikan tata letak footer di perangkat mobile */
