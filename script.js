@@ -187,3 +187,4 @@
 /* Update #559: feat(hero): tambahkan seksi perkenalan utama dan foto profil */
 /* Update #562: style(hero): perindah tata letak dan tipografi judul utama */
 /* Update #565: style(hero): perindah tata letak dan tipografi judul utama */
+/* Update #568: feat(projects): tambahkan kartu daftar proyek portofolio */
