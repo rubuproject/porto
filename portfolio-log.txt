@@ -259,3 +259,4 @@ Commit #258: style: sesuaikan skema warna dan tema portofolio
 Commit #259: docs: tambahkan ringkasan proyek pada portofolio
 Commit #260: refactor: tingkatkan responsivitas tampilan mobile
 Commit #261: fix: perbaiki penataan elemen CSS di portofolio
+Commit #262: style: sesuaikan skema warna dan tema portofolio
