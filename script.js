@@ -124,3 +124,4 @@
 /* Update #370: style(footer): rapikan tata letak footer di perangkat mobile */
 /* Update #373: style(nav): tambahkan efek transisi hover pada menu navigasi */
 /* Update #376: feat(nav): buat komponen navigasi header responsif */
+/* Update #379: style(projects): desain layout grid responsif untuk kartu proyek */
