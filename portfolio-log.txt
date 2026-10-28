@@ -438,3 +438,4 @@ Commit #437: feat: tambahkan seksi pengalaman dan proyek
 Commit #438: style: sesuaikan skema warna dan tema portofolio
 Commit #439: refactor: tingkatkan responsivitas tampilan mobile
 Commit #440: style: sesuaikan skema warna dan tema portofolio
+Commit #441: style: rapikan tata letak komponen landing page
