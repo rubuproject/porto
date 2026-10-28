@@ -971,3 +971,4 @@ Commit #970: feat: tingkatkan performa navigasi halaman
 Commit #971: style: sesuaikan skema warna dan tema portofolio
 Commit #972: style: rapikan tata letak komponen landing page
 Commit #973: feat: update deskripsi profil di web portofolio
+Commit #974: content: perbarui daftar keahlian teknis
