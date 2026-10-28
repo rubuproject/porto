@@ -697,3 +697,4 @@ Commit #696: style: sesuaikan skema warna dan tema portofolio
 Commit #697: fix: perbaiki penataan elemen CSS di portofolio
 Commit #698: style: optimasi tampilan antarmuka pengguna
 Commit #699: fix: perbaiki penataan elemen CSS di portofolio
+Commit #700: docs: tambahkan ringkasan proyek pada portofolio
