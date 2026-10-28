@@ -364,3 +364,4 @@ Commit #363: style: rapikan tata letak komponen landing page
 Commit #364: docs: tambahkan ringkasan proyek pada portofolio
 Commit #365: feat: update deskripsi profil di web portofolio
 Commit #366: style: sesuaikan skema warna dan tema portofolio
+Commit #367: refactor: tingkatkan responsivitas tampilan mobile
