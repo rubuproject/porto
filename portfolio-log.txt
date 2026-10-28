@@ -284,3 +284,4 @@ Commit #283: content: perbarui daftar keahlian teknis
 Commit #284: feat: tambahkan seksi pengalaman dan proyek
 Commit #285: fix: perbaiki penataan elemen CSS di portofolio
 Commit #286: feat: tambahkan seksi pengalaman dan proyek
+Commit #287: docs: tambahkan ringkasan proyek pada portofolio
