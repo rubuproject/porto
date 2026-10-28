@@ -184,3 +184,4 @@ Commit #183: docs: tambahkan ringkasan proyek pada portofolio
 Commit #184: style: sesuaikan skema warna dan tema portofolio
 Commit #185: refactor: tingkatkan responsivitas tampilan mobile
 Commit #186: style: rapikan tata letak komponen landing page
+Commit #187: docs: tambahkan ringkasan proyek pada portofolio
