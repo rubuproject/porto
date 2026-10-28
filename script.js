@@ -60,3 +60,4 @@
 /* Update #178: style(footer): rapikan tata letak footer di perangkat mobile */
 /* Update #181: content(about): isi deskripsi latar belakang pendidikan informatika */
 /* Update #184: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
+/* Update #187: content(about): isi deskripsi latar belakang pendidikan informatika */
