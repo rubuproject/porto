@@ -683,3 +683,4 @@ Commit #682: feat: tingkatkan performa navigasi halaman
 Commit #683: refactor: tingkatkan responsivitas tampilan mobile
 Commit #684: fix: perbaiki penataan elemen CSS di portofolio
 Commit #685: feat: tambahkan seksi pengalaman dan proyek
+Commit #686: style: rapikan tata letak komponen landing page
