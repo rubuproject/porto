@@ -65,3 +65,4 @@ Commit #64: fix: perbaiki penataan elemen CSS di portofolio
 Commit #65: style: sesuaikan skema warna dan tema portofolio
 Commit #66: feat: tingkatkan performa navigasi halaman
 Commit #67: fix: perbaiki penataan elemen CSS di portofolio
+Commit #68: feat: tambahkan seksi pengalaman dan proyek
