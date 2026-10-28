@@ -858,3 +858,4 @@ Commit #857: style: optimasi tampilan antarmuka pengguna
 Commit #858: style: optimasi tampilan antarmuka pengguna
 Commit #859: docs: tambahkan ringkasan proyek pada portofolio
 Commit #860: style: rapikan tata letak komponen landing page
+Commit #861: style: optimasi tampilan antarmuka pengguna
