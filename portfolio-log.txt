@@ -812,3 +812,4 @@ Commit #811: feat: tambahkan seksi pengalaman dan proyek
 Commit #812: docs: tambahkan ringkasan proyek pada portofolio
 Commit #813: feat: tingkatkan performa navigasi halaman
 Commit #814: feat: tingkatkan performa navigasi halaman
+Commit #815: feat: update deskripsi profil di web portofolio
