@@ -48,3 +48,4 @@ Commit #47: style: sesuaikan skema warna dan tema portofolio
 Commit #48: fix: perbaiki penataan elemen CSS di portofolio
 Commit #49: fix: perbaiki penataan elemen CSS di portofolio
 Commit #50: feat: tambahkan seksi pengalaman dan proyek
+Commit #51: docs: tambahkan ringkasan proyek pada portofolio
