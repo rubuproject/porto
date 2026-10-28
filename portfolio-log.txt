@@ -566,3 +566,4 @@ Commit #565: style: rapikan tata letak komponen landing page
 Commit #566: feat: tingkatkan performa navigasi halaman
 Commit #567: feat: tambahkan seksi pengalaman dan proyek
 Commit #568: refactor: tingkatkan responsivitas tampilan mobile
+Commit #569: feat: tambahkan seksi pengalaman dan proyek
