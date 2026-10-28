@@ -476,3 +476,4 @@ Commit #475: feat: tambahkan seksi pengalaman dan proyek
 Commit #476: content: perbarui daftar keahlian teknis
 Commit #477: fix: perbaiki penataan elemen CSS di portofolio
 Commit #478: content: perbarui daftar keahlian teknis
+Commit #479: fix: perbaiki penataan elemen CSS di portofolio
