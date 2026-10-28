@@ -96,3 +96,4 @@ Commit #95: content: perbarui daftar keahlian teknis
 Commit #96: fix: perbaiki penataan elemen CSS di portofolio
 Commit #97: fix: perbaiki penataan elemen CSS di portofolio
 Commit #98: docs: tambahkan ringkasan proyek pada portofolio
+Commit #99: feat: update deskripsi profil di web portofolio
