@@ -10,3 +10,4 @@
 /* Update #28: feat(nav): buat komponen navigasi header responsif */
 /* Update #31: feat(hero): tambahkan seksi perkenalan utama dan foto profil */
 /* Update #34: style(nav): tambahkan efek transisi hover pada menu navigasi */
+/* Update #37: feat(projects): tambahkan kartu daftar proyek portofolio */
