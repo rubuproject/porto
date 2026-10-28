@@ -507,3 +507,4 @@ Commit #506: docs: tambahkan ringkasan proyek pada portofolio
 Commit #507: content: perbarui daftar keahlian teknis
 Commit #508: style: sesuaikan skema warna dan tema portofolio
 Commit #509: feat: tambahkan seksi pengalaman dan proyek
+Commit #510: refactor: tingkatkan responsivitas tampilan mobile
