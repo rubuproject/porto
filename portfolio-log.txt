@@ -190,3 +190,4 @@ Commit #189: style: sesuaikan skema warna dan tema portofolio
 Commit #190: style: rapikan tata letak komponen landing page
 Commit #191: feat: tambahkan seksi pengalaman dan proyek
 Commit #192: feat: tambahkan seksi pengalaman dan proyek
+Commit #193: refactor: tingkatkan responsivitas tampilan mobile
