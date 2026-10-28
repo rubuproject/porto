@@ -733,3 +733,4 @@ Commit #732: feat: tingkatkan performa navigasi halaman
 Commit #733: style: rapikan tata letak komponen landing page
 Commit #734: refactor: tingkatkan responsivitas tampilan mobile
 Commit #735: style: rapikan tata letak komponen landing page
+Commit #736: content: perbarui daftar keahlian teknis
