@@ -140,3 +140,4 @@
 /* Update #418: feat(footer): tambahkan tautan media sosial dan hak cipta */
 /* Update #421: style(nav): tambahkan efek transisi hover pada menu navigasi */
 /* Update #424: feat(about): buat halaman atau seksi tentang saya */
+/* Update #427: feat(footer): tambahkan tautan media sosial dan hak cipta */
