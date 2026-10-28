@@ -109,3 +109,4 @@
 /* Update #325: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
 /* Update #328: style(footer): rapikan tata letak footer di perangkat mobile */
 /* Update #331: feat(projects): tambahkan kartu daftar proyek portofolio */
+/* Update #334: feat(projects): tambahkan kartu daftar proyek portofolio */
