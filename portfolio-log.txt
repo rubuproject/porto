@@ -151,3 +151,4 @@ Commit #150: style: optimasi tampilan antarmuka pengguna
 Commit #151: style: rapikan tata letak komponen landing page
 Commit #152: style: rapikan tata letak komponen landing page
 Commit #153: style: sesuaikan skema warna dan tema portofolio
+Commit #154: feat: tingkatkan performa navigasi halaman
