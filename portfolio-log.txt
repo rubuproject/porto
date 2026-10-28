@@ -481,3 +481,4 @@ Commit #480: feat: tingkatkan performa navigasi halaman
 Commit #481: docs: tambahkan ringkasan proyek pada portofolio
 Commit #482: refactor: tingkatkan responsivitas tampilan mobile
 Commit #483: feat: tambahkan seksi pengalaman dan proyek
+Commit #484: style: rapikan tata letak komponen landing page
