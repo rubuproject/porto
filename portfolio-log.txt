@@ -885,3 +885,4 @@ Commit #884: style: sesuaikan skema warna dan tema portofolio
 Commit #885: refactor: tingkatkan responsivitas tampilan mobile
 Commit #886: docs: tambahkan ringkasan proyek pada portofolio
 Commit #887: docs: tambahkan ringkasan proyek pada portofolio
+Commit #888: refactor: tingkatkan responsivitas tampilan mobile
