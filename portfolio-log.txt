@@ -209,3 +209,4 @@ Commit #208: style: rapikan tata letak komponen landing page
 Commit #209: fix: perbaiki penataan elemen CSS di portofolio
 Commit #210: style: optimasi tampilan antarmuka pengguna
 Commit #211: style: optimasi tampilan antarmuka pengguna
+Commit #212: docs: tambahkan ringkasan proyek pada portofolio
