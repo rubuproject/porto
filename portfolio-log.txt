@@ -800,3 +800,4 @@ Commit #799: style: optimasi tampilan antarmuka pengguna
 Commit #800: content: perbarui daftar keahlian teknis
 Commit #801: feat: update deskripsi profil di web portofolio
 Commit #802: style: sesuaikan skema warna dan tema portofolio
+Commit #803: docs: tambahkan ringkasan proyek pada portofolio
