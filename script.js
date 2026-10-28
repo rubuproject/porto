@@ -49,3 +49,4 @@
 /* Update #145: refactor(css): optimasi file stylesheet utama */
 /* Update #148: style(hero): perindah tata letak dan tipografi judul utama */
 /* Update #151: fix(responsive): perbaiki bug tampilan pada layar kecil */
+/* Update #154: feat(about): buat halaman atau seksi tentang saya */
