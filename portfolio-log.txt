@@ -608,3 +608,4 @@ Commit #607: style: optimasi tampilan antarmuka pengguna
 Commit #608: style: optimasi tampilan antarmuka pengguna
 Commit #609: content: perbarui daftar keahlian teknis
 Commit #610: style: sesuaikan skema warna dan tema portofolio
+Commit #611: docs: tambahkan ringkasan proyek pada portofolio
