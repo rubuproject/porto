@@ -372,3 +372,4 @@ Commit #371: fix: perbaiki penataan elemen CSS di portofolio
 Commit #372: refactor: tingkatkan responsivitas tampilan mobile
 Commit #373: style: sesuaikan skema warna dan tema portofolio
 Commit #374: docs: tambahkan ringkasan proyek pada portofolio
+Commit #375: refactor: tingkatkan responsivitas tampilan mobile
