@@ -12,3 +12,4 @@ Commit #11: feat: tingkatkan performa navigasi halaman
 Commit #12: docs: tambahkan ringkasan proyek pada portofolio
 Commit #13: feat: tambahkan seksi pengalaman dan proyek
 Commit #14: style: rapikan tata letak komponen landing page
+Commit #15: style: optimasi tampilan antarmuka pengguna
