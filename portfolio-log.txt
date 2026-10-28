@@ -106,3 +106,4 @@ Commit #105: refactor: tingkatkan responsivitas tampilan mobile
 Commit #106: refactor: tingkatkan responsivitas tampilan mobile
 Commit #107: docs: tambahkan ringkasan proyek pada portofolio
 Commit #108: style: rapikan tata letak komponen landing page
+Commit #109: content: perbarui daftar keahlian teknis
