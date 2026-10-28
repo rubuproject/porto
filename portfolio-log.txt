@@ -825,3 +825,4 @@ Commit #824: refactor: tingkatkan responsivitas tampilan mobile
 Commit #825: style: rapikan tata letak komponen landing page
 Commit #826: refactor: tingkatkan responsivitas tampilan mobile
 Commit #827: docs: tambahkan ringkasan proyek pada portofolio
+Commit #828: docs: tambahkan ringkasan proyek pada portofolio
