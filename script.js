@@ -59,3 +59,4 @@
 /* Update #175: feat(projects): tambahkan kartu daftar proyek portofolio */
 /* Update #178: style(footer): rapikan tata letak footer di perangkat mobile */
 /* Update #181: content(about): isi deskripsi latar belakang pendidikan informatika */
+/* Update #184: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
