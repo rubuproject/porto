@@ -434,3 +434,4 @@ Commit #433: docs: tambahkan ringkasan proyek pada portofolio
 Commit #434: feat: tambahkan seksi pengalaman dan proyek
 Commit #435: fix: perbaiki penataan elemen CSS di portofolio
 Commit #436: feat: tingkatkan performa navigasi halaman
+Commit #437: feat: tambahkan seksi pengalaman dan proyek
