@@ -786,3 +786,4 @@ Commit #785: feat: tingkatkan performa navigasi halaman
 Commit #786: style: rapikan tata letak komponen landing page
 Commit #787: style: sesuaikan skema warna dan tema portofolio
 Commit #788: feat: update deskripsi profil di web portofolio
+Commit #789: docs: tambahkan ringkasan proyek pada portofolio
