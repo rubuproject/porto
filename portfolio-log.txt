@@ -6,3 +6,4 @@ Commit #5: docs: tambahkan ringkasan proyek pada portofolio
 Commit #6: feat: tingkatkan performa navigasi halaman
 Commit #7: style: optimasi tampilan antarmuka pengguna
 Commit #8: refactor: tingkatkan responsivitas tampilan mobile
+Commit #9: feat: tingkatkan performa navigasi halaman
