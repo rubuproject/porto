@@ -153,3 +153,4 @@ Commit #152: style: rapikan tata letak komponen landing page
 Commit #153: style: sesuaikan skema warna dan tema portofolio
 Commit #154: feat: tingkatkan performa navigasi halaman
 Commit #155: fix: perbaiki penataan elemen CSS di portofolio
+Commit #156: feat: tingkatkan performa navigasi halaman
