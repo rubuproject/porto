@@ -221,3 +221,4 @@
 /* Update #661: feat(nav): buat komponen navigasi header responsif */
 /* Update #664: style(projects): desain layout grid responsif untuk kartu proyek */
 /* Update #667: style(projects): desain layout grid responsif untuk kartu proyek */
+/* Update #670: feat(hero): tambahkan seksi perkenalan utama dan foto profil */
