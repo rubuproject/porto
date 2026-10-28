@@ -283,3 +283,4 @@
 /* Update #847: fix(responsive): perbaiki bug tampilan pada layar kecil */
 /* Update #850: feat(hero): tambahkan seksi perkenalan utama dan foto profil */
 /* Update #853: style(projects): desain layout grid responsif untuk kartu proyek */
+/* Update #856: content(about): isi deskripsi latar belakang pendidikan informatika */
