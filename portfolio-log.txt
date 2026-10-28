@@ -458,3 +458,4 @@ Commit #457: content: perbarui daftar keahlian teknis
 Commit #458: feat: tingkatkan performa navigasi halaman
 Commit #459: feat: tingkatkan performa navigasi halaman
 Commit #460: style: sesuaikan skema warna dan tema portofolio
+Commit #461: fix: perbaiki penataan elemen CSS di portofolio
