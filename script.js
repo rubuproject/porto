@@ -57,3 +57,4 @@
 /* Update #169: content(about): isi deskripsi latar belakang pendidikan informatika */
 /* Update #172: feat(nav): buat komponen navigasi header responsif */
 /* Update #175: feat(projects): tambahkan kartu daftar proyek portofolio */
+/* Update #178: style(footer): rapikan tata letak footer di perangkat mobile */
