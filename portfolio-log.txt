@@ -777,3 +777,4 @@ Commit #776: feat: tambahkan seksi pengalaman dan proyek
 Commit #777: feat: tambahkan seksi pengalaman dan proyek
 Commit #778: refactor: tingkatkan responsivitas tampilan mobile
 Commit #779: style: sesuaikan skema warna dan tema portofolio
+Commit #780: docs: tambahkan ringkasan proyek pada portofolio
