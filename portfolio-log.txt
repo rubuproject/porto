@@ -644,3 +644,4 @@ Commit #643: feat: tambahkan seksi pengalaman dan proyek
 Commit #644: style: sesuaikan skema warna dan tema portofolio
 Commit #645: feat: update deskripsi profil di web portofolio
 Commit #646: docs: tambahkan ringkasan proyek pada portofolio
+Commit #647: style: optimasi tampilan antarmuka pengguna
