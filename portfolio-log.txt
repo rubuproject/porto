@@ -956,3 +956,4 @@ Commit #955: feat: tingkatkan performa navigasi halaman
 Commit #956: feat: tingkatkan performa navigasi halaman
 Commit #957: feat: tambahkan seksi pengalaman dan proyek
 Commit #958: style: sesuaikan skema warna dan tema portofolio
+Commit #959: style: rapikan tata letak komponen landing page
