@@ -341,3 +341,4 @@ Commit #340: fix: perbaiki penataan elemen CSS di portofolio
 Commit #341: style: optimasi tampilan antarmuka pengguna
 Commit #342: style: optimasi tampilan antarmuka pengguna
 Commit #343: content: perbarui daftar keahlian teknis
+Commit #344: style: sesuaikan skema warna dan tema portofolio
