@@ -356,3 +356,4 @@ Commit #355: feat: tambahkan seksi pengalaman dan proyek
 Commit #356: feat: update deskripsi profil di web portofolio
 Commit #357: feat: update deskripsi profil di web portofolio
 Commit #358: docs: tambahkan ringkasan proyek pada portofolio
+Commit #359: style: optimasi tampilan antarmuka pengguna
