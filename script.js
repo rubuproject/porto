@@ -134,3 +134,4 @@
 /* Update #400: style(hero): perindah tata letak dan tipografi judul utama */
 /* Update #403: feat(nav): buat komponen navigasi header responsif */
 /* Update #406: feat(nav): buat komponen navigasi header responsif */
+/* Update #409: feat(footer): tambahkan tautan media sosial dan hak cipta */
