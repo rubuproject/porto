@@ -138,3 +138,4 @@
 /* Update #412: refactor(css): optimasi file stylesheet utama */
 /* Update #415: feat(about): buat halaman atau seksi tentang saya */
 /* Update #418: feat(footer): tambahkan tautan media sosial dan hak cipta */
+/* Update #421: style(nav): tambahkan efek transisi hover pada menu navigasi */
