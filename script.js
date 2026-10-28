@@ -129,3 +129,4 @@
 /* Update #385: feat(footer): tambahkan tautan media sosial dan hak cipta */
 /* Update #388: feat(contact): buat formulir kontak interaktif */
 /* Update #391: style(skills): buat ikon atau badge grid untuk keahlian teknis */
+/* Update #394: feat(hero): tambahkan seksi perkenalan utama dan foto profil */
