@@ -489,3 +489,4 @@ Commit #488: style: rapikan tata letak komponen landing page
 Commit #489: feat: tambahkan seksi pengalaman dan proyek
 Commit #490: style: rapikan tata letak komponen landing page
 Commit #491: docs: tambahkan ringkasan proyek pada portofolio
+Commit #492: content: perbarui daftar keahlian teknis
