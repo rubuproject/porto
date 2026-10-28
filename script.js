@@ -324,3 +324,4 @@
 /* Update #970: feat(projects): tambahkan kartu daftar proyek portofolio */
 /* Update #973: style(footer): rapikan tata letak footer di perangkat mobile */
 /* Update #976: content(about): isi deskripsi latar belakang pendidikan informatika */
+/* Update #979: feat(footer): tambahkan tautan media sosial dan hak cipta */
