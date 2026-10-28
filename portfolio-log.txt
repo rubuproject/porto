@@ -436,3 +436,4 @@ Commit #435: fix: perbaiki penataan elemen CSS di portofolio
 Commit #436: feat: tingkatkan performa navigasi halaman
 Commit #437: feat: tambahkan seksi pengalaman dan proyek
 Commit #438: style: sesuaikan skema warna dan tema portofolio
+Commit #439: refactor: tingkatkan responsivitas tampilan mobile
