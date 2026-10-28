@@ -51,3 +51,4 @@
 /* Update #151: fix(responsive): perbaiki bug tampilan pada layar kecil */
 /* Update #154: feat(about): buat halaman atau seksi tentang saya */
 /* Update #157: feat(hero): tambahkan seksi perkenalan utama dan foto profil */
+/* Update #160: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
