@@ -594,3 +594,4 @@ Commit #593: feat: tingkatkan performa navigasi halaman
 Commit #594: feat: tingkatkan performa navigasi halaman
 Commit #595: refactor: tingkatkan responsivitas tampilan mobile
 Commit #596: refactor: tingkatkan responsivitas tampilan mobile
+Commit #597: refactor: tingkatkan responsivitas tampilan mobile
