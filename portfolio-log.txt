@@ -9,3 +9,4 @@ Commit #8: refactor: tingkatkan responsivitas tampilan mobile
 Commit #9: feat: tingkatkan performa navigasi halaman
 Commit #10: style: sesuaikan skema warna dan tema portofolio
 Commit #11: feat: tingkatkan performa navigasi halaman
+Commit #12: docs: tambahkan ringkasan proyek pada portofolio
