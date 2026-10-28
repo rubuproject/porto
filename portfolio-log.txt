@@ -60,3 +60,4 @@ Commit #59: docs: tambahkan ringkasan proyek pada portofolio
 Commit #60: feat: tingkatkan performa navigasi halaman
 Commit #61: refactor: tingkatkan responsivitas tampilan mobile
 Commit #62: feat: tingkatkan performa navigasi halaman
+Commit #63: refactor: tingkatkan responsivitas tampilan mobile
