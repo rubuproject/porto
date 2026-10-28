@@ -327,3 +327,4 @@
 /* Update #979: feat(footer): tambahkan tautan media sosial dan hak cipta */
 /* Update #982: content(about): isi deskripsi latar belakang pendidikan informatika */
 /* Update #985: feat(nav): buat komponen navigasi header responsif */
+/* Update #988: style(footer): rapikan tata letak footer di perangkat mobile */
