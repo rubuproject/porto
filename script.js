@@ -118,3 +118,4 @@
 /* Update #352: style(nav): tambahkan efek transisi hover pada menu navigasi */
 /* Update #355: feat(skills): tambahkan daftar keahlian bahasa pemrograman */
 /* Update #358: feat(contact): buat formulir kontak interaktif */
+/* Update #361: style(footer): rapikan tata letak footer di perangkat mobile */
