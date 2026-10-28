@@ -491,3 +491,4 @@ Commit #490: style: rapikan tata letak komponen landing page
 Commit #491: docs: tambahkan ringkasan proyek pada portofolio
 Commit #492: content: perbarui daftar keahlian teknis
 Commit #493: fix: perbaiki penataan elemen CSS di portofolio
+Commit #494: style: sesuaikan skema warna dan tema portofolio
