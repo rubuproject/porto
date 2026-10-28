@@ -599,3 +599,4 @@ Commit #598: style: sesuaikan skema warna dan tema portofolio
 Commit #599: feat: tambahkan seksi pengalaman dan proyek
 Commit #600: feat: update deskripsi profil di web portofolio
 Commit #601: docs: tambahkan ringkasan proyek pada portofolio
+Commit #602: style: optimasi tampilan antarmuka pengguna
